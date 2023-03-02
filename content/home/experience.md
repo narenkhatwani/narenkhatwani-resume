@@ -29,7 +29,7 @@ experience:
     location: New Jersey
     date_start: '2021-05-01'
     date_end: ''
-    description: Arkouda  research a software package that allows a user to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy,the underlying computational library used in most Python data science workflows. 
+    description: Arkouda  research a software package that allows a user to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy,theunderlying computational library used in most Python data science workflows. 
     Objective  Test how a user can experience Arkouda and do a performance comparison study.
 
   - title: Technology Engineering Intern
@@ -39,7 +39,7 @@ experience:
     location: New Jersey
     date_start: '2020-09-01'
     date_end: '2021-04-30'
-    description: - Worked alongside the Platform & Product Engineering Team on improving the in-house Content Management System. Collaborated with cross-functional teams using Jira and deliver well-documented work. Part of developing the new Mobile Application for Forbes Daily Dozen replacing the existing technology to drive more traffic
+    description: Worked alongside the Platform & Product Engineering Team on improving the in-house Content Management System. Collaborated with cross-functional teams using Jira and deliver well-documented work. Part of developing the new Mobile Application for Forbes Daily Dozen replacing the existing technology to drive more traffic
 
   - title: Data Science Intern
     company: Chubb Insurance
