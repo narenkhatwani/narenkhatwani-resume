@@ -34,7 +34,7 @@ experience:
 
   - title: Technology Engineering Intern
     company: Forbes Media LLC
-    company_url: 'https://www.njit.edu/'
+    company_url: 'https://www.forbes.com/'
     company_logo:
     location: New Jersey
     date_start: '2020-09-01'
