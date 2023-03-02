@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oliver Alvarado Rodriguez
+title: Naren Khatwani
 
 # Full name (for SEO)
 first_name: Oliver
@@ -10,7 +10,7 @@ last_name: Alvarado Rodriguez
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Graduate Student and Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -29,12 +29,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Masters in Computer Science
       institution: New Jersey Institute of Technology
-      year: expected 2024
-    - course: B.S. in Computer Science
-      institution: William Paterson University
-      year: 2020
+      year: expected May 2023
+    - course: B.E. in Computer Engineering
+      institution: Vivekanand Education Society's Institute of Technology
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,10 +43,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:oaa9@njit.edu
+    link: mailto:narenkhatwani.work@gmail.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/OliverAlvaRod
+    link: https://twitter.com/KhatwaniNaren
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=dV5vV3gAAAAJ&hl=en
@@ -55,7 +55,7 @@ social:
     link: https://www.researchgate.net/profile/Oliver-Alvarado-Rodriguez
   - icon: github
     icon_pack: fab
-    link: https://github.com/alvaradoo
+    link: https://github.com/narenkhatwani
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/oliver-alvarado-rod/
