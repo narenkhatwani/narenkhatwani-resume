@@ -31,7 +31,7 @@ education:
   courses:
     - course: Masters in Computer Science
       institution: New Jersey Institute of Technology
-      year: expected May 2023
+      year: 2023
     - course: B.E. in Computer Engineering
       institution: Vivekanand Education Society's Institute of Technology
       year: 2021
@@ -70,4 +70,4 @@ email: 'oaa9@njit.edu'
 highlight_name: true
 ---
 
-Hello 👋, my name is Naren, and I'm a currently a graduate Student at the New Jersey Institute of Technology, Newark, majoring in Computer Science.A bit more about me: I am currently working part-time as a Graduate Researcher at New Jersey Institute of Technology, Newark where my work is focused in the domain of Parallel/ High Performance Computing.
+Hello, my name is Naren, and I'm a currently a graduate Student at the New Jersey Institute of Technology, Newark, majoring in Computer Science.A bit more about me: I am currently working part-time as a Graduate Researcher at New Jersey Institute of Technology, Newark where my work is focused in the domain of Parallel/ High Performance Computing.
