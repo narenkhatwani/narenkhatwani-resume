@@ -70,4 +70,6 @@ email: 'oaa9@njit.edu'
 highlight_name: true
 ---
 
-Hello, my name is Naren, and I'm a currently a graduate Student at the New Jersey Institute of Technology, Newark, majoring in Computer Science.A bit more about me: I also work part-time as a Graduate Researcher at New Jersey Institute of Technology, Newark where my work is focused in the domain of Parallel/ High Performance Computing.
+<p style='text-align: justify;'>
+Hello, my name is Naren, and I'm a currently a graduate Student at the New Jersey Institute of Technology, Newark, majoring in Computer Science.I also work part-time as a Graduate Researcher at New Jersey Institute of Technology, Newark where my work is focused in the domain of Parallel/ High Performance Computing.
+</p>
