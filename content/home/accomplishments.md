@@ -23,30 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url:
+  - certificate_url: https://www.linkedin.com/posts/narenkhatwani_i-am-happy-to-share-that-our-be-project-group-activity-6793489449914273793-VpEJ?utm_source=share&utm_medium=member_desktop
     date_end:
     date_start: '2022-10-06'
-    description: Travel grant award to attend The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2022. Acceptance rate of <20%.
-    organization: IEEE Technical Committee on High Performance Computing
+    description: Reviewers Choice Award for the Paper titled "Food Aayush - Identification of Food and Oils Quality"
+    organization: Issued by IEMAICLOUD 2021, Springer, UK
     organization_url: https://tc.computer.org/tchpc/
-    title: SC22 Student Travel Awards
-    url: https://tc.computer.org/tchpc/home-page/page-of-awards/
-  - certificate_url:
-    date_end:
-    date_start: '2022-01-25'
-    description: Week-long workshop solving problem(s) related to hypergraphs. Acceptance rate of <50%.
-    organization: American Mathematical Society
-    organization_url: https://www.ams.org/home/page
-    title: Mathematics Research Community Participant
-    url: http://www.ams.org/programs/research-communities/mrc-22
-  - certificate_url:
-    date_end:
-    date_start: '2020-05-01'
-    description: Awarded to the highest-GPA graduating senior in computer science.
-    organization: William Paterson University
-    organization_url: https://www.wpunj.edu/
-    title: Omicron Omega Award for Excellence in Computer Science
-    url: https://cs-cit.wpunj.edu/cs/assets/dept_resources/ooa.pdf
+    title: Reviewers Choice Paper Award
+    url: https://iemaicloud.org/
   - certificate_url:
     date_end:
     date_start: '2019-05-01'
