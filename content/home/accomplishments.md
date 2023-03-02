@@ -26,8 +26,7 @@ item:
   - certificate_url: https://www.linkedin.com/posts/narenkhatwani_i-am-happy-to-share-that-our-be-project-group-activity-6793489449914273793-VpEJ?utm_source=share&utm_medium=member_desktop
     date_end:
     date_start: '2021-04-01'
-    description: Reviewers Choice Award for the Paper titled "Food Aayush - Identification of Food and Oils Quality". 
-    Food Aayush is an AI, image processing, and IoT-based application that aims to help people check the freshness of food, the rancidity of cooking oils, find out the nutritional value of various food items, check their daily dietary requirements, and also find combinations of foods that are harmful to health.
+    description: Reviewers Choice Award for the Paper titled "Food Aayush - Identification of Food and Oils Quality".
     organization: Issued by IEMAICLOUD 2021, Springer, UK
     organization_url: https://tc.computer.org/tchpc/
     title: Reviewers Choice Paper Award
@@ -35,7 +34,7 @@ item:
   - certificate_url:
     date_end:
     date_start: '2019-05-01'
-    description: The proposed idea was to predict the life of the required structure with the help of machine learning and artificial intelligence to overcome the risk of structural breakdown after construction. It helps to determine structural integrity by using sample construction data. The various construction parameters, such as soil quality, wood, cement, etc., are considered input datasets to train the proposed system using machine learning algorithms like linear regression models and time series analysis. In addition, each feature's contribution to maintaining the structure's sustainability is predicted. , Thus the proposed system acts as an aid to civil engineers and guarantees to increase the efficiency and lifespan of construction work.
+    description: The proposed idea was to predict the life of the required structure with the help of machine learning and artificial intelligence to overcome the risk of structural breakdown after construction.
     organization: The Institution of Engineers (India), Pune Local Centre
     organization_url: https://www.wpunj.edu/
     title: Best Technical paper Award
