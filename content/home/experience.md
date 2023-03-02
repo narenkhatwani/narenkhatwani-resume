@@ -29,9 +29,8 @@ experience:
     location: New Jersey
     date_start: '2021-05-01'
     date_end: ''
-    description: 
-    - Arkouda - research a software package that allows a user to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy,the underlying computational library used in most Python data science workflows. 
-    - Objective - Test how a user can experience Arkouda and do a performance comparison study.
+    description: Arkouda - research a software package that allows a user to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy,the underlying computational library used in most Python data science workflows. 
+    Objective - Test how a user can experience Arkouda and do a performance comparison study.
 
   - title: Technology Engineering Intern
     company: Forbes Media LLC
