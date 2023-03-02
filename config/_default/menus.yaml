@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Experience
     url: '#experience'
-    weight: 100
+    weight: 5
 
 
 # Link to a PDF of your resume/CV from the menu.
