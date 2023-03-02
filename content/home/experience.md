@@ -29,12 +29,12 @@ experience:
     location: New Jersey
     date_start: '2021-05-01'
     date_end: ''
-    description: Arkouda
+    description: Research a software package (Arkouda) allowing users to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy - the underlying computational library used in most Python data science workflows. Another objective of my work was to test how a user can experience Arkouda and do a performance comparison study.
 
   - title: Technology Engineering Intern
     company: Forbes Media LLC
     company_url: 'https://www.forbes.com/'
-    company_logo: https://1000logos.net/wp-content/uploads/2021/05/Forbes-logo.png
+    company_logo:
     location: New Jersey
     date_start: '2020-09-01'
     date_end: '2021-04-30'
