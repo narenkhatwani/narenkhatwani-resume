@@ -22,14 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+  - title: Graduate Researcher
     company: New Jersey Institute of Technology
     company_url: 'https://www.njit.edu/'
     company_logo:
     location: New Jersey
     date_start: '2021-05-01'
     date_end: ''
-    description: Designed, implemented, and analyzed algorithms for high performance graph and data analytics. Explored the research process from literature review through algorithm design, implementation, and performance optimization. 
+    description: Arkouda - research a software package that allows a user to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy,the underlying computational library used in most Python data science workflows. Objective - Test how a user can experience Arkouda and do a performance comparison study.
 
   - title: Teaching Assistant
     company: New Jersey Institute of Technology
