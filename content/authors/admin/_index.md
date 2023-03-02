@@ -72,6 +72,6 @@ Hello, my name is Naren, and I'm a currently a graduate Student at the New Jerse
 </p>
 
 <p style='text-align: justify;'>
-I am also associated with Github as a Campus Expert to strive to build diverse and inclusive communities to learn skills, collaborate on projects, and share their experiences. The community I have been working to develop is known as the NJIT HPC Initiative. Our main goal is to make students aware of High-Performance Computing as a viable research domain and remove its fear from the mind of students.
+I am also associated with Github as a Campus Expert to build diverse and inclusive communities to learn skills, collaborate on projects, and share their experiences. The community I have been working to develop is known as the NJIT HPC Initiative. Our main goal is to make students aware of High-Performance Computing as a viable research domain and remove its fear from the mind of students.
 </p>
 
