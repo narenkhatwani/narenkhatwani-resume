@@ -34,7 +34,7 @@ experience:
   - title: Technology Engineering Intern
     company: Forbes Media LLC
     company_url: 'https://www.forbes.com/'
-    company_logo:
+    company_logo: 'https://1000logos.net/wp-content/uploads/2021/05/Forbes-logo.png'
     location: New Jersey
     date_start: '2020-09-01'
     date_end: '2021-04-30'
