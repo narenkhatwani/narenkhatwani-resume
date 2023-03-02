@@ -49,19 +49,19 @@ social:
     link: https://twitter.com/KhatwaniNaren
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=dV5vV3gAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=YogRiCkAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
     link: https://github.com/narenkhatwani
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/oliver-alvarado-rod/
+    link: https://www.linkedin.com/in/narenkhatwani/
   - icon: cv
     icon_pack: ai
     link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'oaa9@njit.edu'
+email: 'narenkhatwani.work@gmail.com'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
