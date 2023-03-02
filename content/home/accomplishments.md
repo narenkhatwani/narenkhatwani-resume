@@ -26,7 +26,8 @@ item:
   - certificate_url: https://www.linkedin.com/posts/narenkhatwani_i-am-happy-to-share-that-our-be-project-group-activity-6793489449914273793-VpEJ?utm_source=share&utm_medium=member_desktop
     date_end:
     date_start: '2021-04-01'
-    description: Reviewers Choice Award for the Paper titled "Food Aayush - Identification of Food and Oils Quality". Food Aayush is an AI, image processing, and IoT-based application that aims to help people check the freshness of food, the rancidity of cooking oils, find out the nutritional value of various food items, check their daily dietary requirements, and also find combinations of foods that are harmful to health.
+    description: Reviewers Choice Award for the Paper titled "Food Aayush - Identification of Food and Oils Quality". 
+    Food Aayush is an AI, image processing, and IoT-based application that aims to help people check the freshness of food, the rancidity of cooking oils, find out the nutritional value of various food items, check their daily dietary requirements, and also find combinations of foods that are harmful to health.
     organization: Issued by IEMAICLOUD 2021, Springer, UK
     organization_url: https://tc.computer.org/tchpc/
     title: Reviewers Choice Paper Award
