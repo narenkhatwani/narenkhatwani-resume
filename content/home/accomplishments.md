@@ -31,14 +31,14 @@ item:
     organization_url: https://tc.computer.org/tchpc/
     title: Reviewers Choice Paper Award
     url: https://iemaicloud.org/
-  - certificate_url:
+  - certificate_url: https://drive.google.com/file/d/1mtJyZgXhM4fg_p_u0nbfxKJxbIp03gfL/view
     date_end:
     date_start: '2019-05-01'
     description: The proposed idea was to predict the life of the required structure with the help of machine learning and artificial intelligence to overcome the risk of structural breakdown after construction.
     organization: The Institution of Engineers (India), Pune Local Centre
     organization_url: https://www.wpunj.edu/
-    title: Best Technical paper Award
-    url: 
+    title: Best Technical Paper Award
+    url: http://ieipune.org/
 
 design:
   columns: '2'
