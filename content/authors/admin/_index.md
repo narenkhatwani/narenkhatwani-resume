@@ -3,8 +3,8 @@
 title: Naren Khatwani
 
 # Full name (for SEO)
-first_name: Oliver
-last_name: Alvarado Rodriguez
+first_name: Naren
+last_name: Khatwani
 
 # Is this the primary user of the site?
 superuser: true
@@ -71,5 +71,5 @@ highlight_name: true
 ---
 
 <p style='text-align: justify;'>
-Hello, my name is Naren, and I'm a currently a graduate Student at the New Jersey Institute of Technology, Newark, majoring in Computer Science.I also work part-time as a Graduate Researcher at New Jersey Institute of Technology, Newark where my work is focused in the domain of Parallel/ High Performance Computing.
+Hello, my name is Naren, and I'm a currently a graduate Student at the New Jersey Institute of Technology, Newark, majoring in Computer Science. I also work part-time as a Graduate Researcher at New Jersey Institute of Technology, Newark where my work is focused in the domain of Parallel and High Performance Computing.
 </p>
