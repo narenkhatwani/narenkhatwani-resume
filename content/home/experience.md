@@ -38,16 +38,7 @@ experience:
     location: New Jersey
     date_start: '2020-09-01'
     date_end: '2021-04-30'
-    description: Worked 
-
-  - title: Data Science Intern
-    company: Chubb Insurance
-    company_url: 'https://www.chubb.com/us-en/'
-    company_logo:
-    location: New Jersey
-    date_start: '2020-06-01'
-    date_end: '2020-08-01'
-    description: Researched machine learning classification algorithms best suited for text data.  Created an API that pulled pertinent information from databases, predicted sex given at birth for insurance leads, and returned a new table for their sales team. Managed project through Chubb’s enterprise GitHub and worked on an Agile software development schedule. Presented progress weekly to supervisor and larger data science team.
+    description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
 
 design:
   columns: '2'
