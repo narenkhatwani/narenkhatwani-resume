@@ -38,7 +38,7 @@ experience:
     location: New Jersey
     date_start: '2020-09-01'
     date_end: '2021-04-30'
-    description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
+    description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System Bertie. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
 
 design:
   columns: '2'
