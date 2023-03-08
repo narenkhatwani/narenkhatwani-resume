@@ -52,7 +52,7 @@ experience:
 
  - title: Intern
     company: Suven Consultants and Technology Pvt Ltd
-    company_url: ''
+    company_url: 'https://www.forbes.com/'
     company_logo:
     location: Mumbai
     date_start: '2019-06-01'
