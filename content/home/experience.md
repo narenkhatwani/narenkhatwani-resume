@@ -56,7 +56,8 @@ experience:
     location: Mumbai
     date_start: '2022-06-01'
     date_end: '2022-09-30'
-    description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System Bertie. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
+    description: Performed Analysis of Meteorological Data to study the Influence of Global Warming on temperature and
+    humidity. This was implemented using data exploration and visualization tools in python. Carried out Market Basket Analysis incorporating Apriori algorithm by considering the important sale parameters. This analysis proves to be an aid in enhancing the sales performance of a supermarket
 
 design:
   columns: '2'
