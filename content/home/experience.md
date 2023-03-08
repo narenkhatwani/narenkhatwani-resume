@@ -56,7 +56,7 @@ experience:
     location: Mumbai
     date_start: '2022-06-01'
     date_end: '2022-09-30'
-    description: Performed Analysis of Meteorological Data to study the Influence of Global Warming on temperature and humidity.
+    description: Performed Analysis of Meteorological Data to study the Influence of Global Warming on temperature and humidity. Carried out Market Basket Analysis incorporating Apriori algorithm by considering the important sale parameters. Carried out Market Basket Analysis incorporating Apriori algorithm by considering the important sale parameters. 
 
 design:
   columns: '2'
