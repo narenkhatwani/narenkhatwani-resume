@@ -56,7 +56,7 @@ experience:
     location: Mumbai
     date_start: '2022-06-01'
     date_end: '2022-09-30'
-    description: lorem
+    description: Performed Analysis of Meteorological Data to study the Influence of Global Warming on temperature and humidity.
 
 design:
   columns: '2'
