@@ -47,7 +47,7 @@ experience:
     location: Mumbai
     date_start: '2022-06-01'
     date_end: '2022-09-30'
-    description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System Bertie. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
+    description: Worked with the Network Operations Center (NOC) and improved the workflow of Building Management System (BMS) by visualizing the existing Chiller Plants' data using Python.
 
   - title: Intern
     company: Suven Consultants and Technology Pvt Ltd
