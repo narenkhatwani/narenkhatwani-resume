@@ -36,7 +36,7 @@ image:
 
 links:
 url_code: https://github.com/njit-hpc-initiative/tutorial-arkouda-njit
-url_pdf: content/publication/food-aayush/food-aayush.pdf
+url_pdf: https://github.com/njit-hpc-initiative/tutorial-arkouda-njit/blob/main/proposal.pdf
 # url_slides: ''
 # url_video: ''
 
