@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [admin, Naren Khatwani, Zhihui Du, and David Bader]
+authors: [Oliver Alvarado Rodrigues, admin, Zhihui Du, and David Bader]
 tags: [tutorial]
 
 # Is this a featured talk? (true/false)
