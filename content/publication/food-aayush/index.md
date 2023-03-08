@@ -17,7 +17,6 @@ authors:
 #   - 'Equal contribution'
 
 date: '2021-09-01T00:00:00Z'
-doi: '10.1109/HPEC49654.2021.9622810'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-06-01T00:00:00Z'
