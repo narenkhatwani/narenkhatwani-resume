@@ -36,7 +36,7 @@ image:
 
 links:
 url_code: https://github.com/njit-hpc-initiative/tutorial-arkouda-njit
-# url_pdf: ''
+url_pdf: content/event/ppopp23_tutorial/proposal.pdf
 # url_slides: ''
 # url_video: ''
 
