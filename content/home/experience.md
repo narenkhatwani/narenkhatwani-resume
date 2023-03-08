@@ -27,7 +27,7 @@ experience:
     company_url: 'https://www.njit.edu/'
     company_logo:
     location: New Jersey
-    date_start: '2021-07-01'
+    date_start: '2021-09-01'
     date_end: ''
     description: Research a software package (Arkouda) allowing users to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy (the underlying computational library used in most Python data science workflows). Another objective of my work was to test how a user can experience Arkouda, do a performance comparison study and craft tutorials for Data Analytics using Arkouda.
 
