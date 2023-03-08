@@ -13,7 +13,7 @@ address:
   country: Canada
 
 summary: A tutorial outlining how to use our graph algorithms for large-scale graph and data analytics.
-
+#abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
