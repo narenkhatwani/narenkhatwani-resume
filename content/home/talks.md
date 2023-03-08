@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 60
 
 title: 'Recent & Upcoming Talks and Tutorials'
 subtitle: Listed here are talks and tutorials at conferences, workshops, etc. that are not tied to a specific publication.

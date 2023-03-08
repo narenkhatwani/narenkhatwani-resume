@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
 title: Extra Curricular Activities
 subtitle: For complete work history refer to my [curriculum vitae](uploads/cv.pdf).
