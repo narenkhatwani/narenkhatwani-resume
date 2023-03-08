@@ -40,6 +40,26 @@ experience:
     date_end: '2021-04-30'
     description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System Bertie. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
 
+ - title: Network Operations Centre Intern
+    company: GPX India Pvt Ltd
+    company_url: 'https://www.equinix.com/data-centers/asia-pacific-colocation/india-colocation/mumbai-data-centers/mb1'
+    company_logo:
+    location: Mumbai
+    date_start: '2020-09-01'
+    date_end: '2021-04-30'
+    description: Worked with the Network Operations Center (NOC) and improved the workflow of Building Management
+    System (BMS) by visualizing the existing Chiller Plants' data using Python
+
+ - title: Intern
+    company: Suven Consultants and Technology Pvt Ltd
+    company_url: ''
+    company_logo:
+    location: Mumbai
+    date_start: '2020-09-01'
+    date_end: '2021-04-30'
+    description: Performed Analysis of Meteorological Data to study the Influence of Global Warming on temperature and
+    humidity. This was implemented using data exploration and visualization tools in python. Carried out Market Basket Analysis incorporating Apriori algorithm by considering the important sale parameters. This analysis proves to be an aid in enhancing the sales performance of a supermarket
+
 design:
   columns: '2'
 ---
