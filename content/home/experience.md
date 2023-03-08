@@ -40,6 +40,15 @@ experience:
     date_end: '2022-09-30'
     description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System Bertie. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
 
+  - title: Network Operations Centre Intern
+    company: GPX India Pvt Ltd
+    company_url: 'https://www.equinix.com/data-centers/asia-pacific-colocation/india-colocation/mumbai-data-centers/mb1'
+    company_logo:
+    location: New Jersey
+    date_start: '2022-06-01'
+    date_end: '2022-09-30'
+    description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System Bertie. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
+
   - title: Technology Engineering Intern
     company: Forbes Media LLC
     company_url: 'https://www.forbes.com/'
