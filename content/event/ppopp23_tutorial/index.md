@@ -13,7 +13,7 @@ address:
   country: Canada
 
 summary: A tutorial outlining how to use our graph algorithms for large-scale graph and data analytics.
-abstract: There is an ever-growing need for data analytical tools that can handle massive data sets. Arkouda is a Python framework with a Chapel back-end created with the intention to scale NumPy operations at scale for datasets that exceeds tens of terabytes in size. The Python front-end allows for data scientists to utilize the functionality of Arkouda to carry out expensive high-performance computing (HPC) kernels that require the usage of large distributed arrays. Arkouda is not designed with the intention to totally replace libraries like Pandas or NumPy, but rather provide the capability to handle datasets that are massive in size in a highly-scalable environment. The goal is to create an environment that is beneficial for exploratory data and graph analysis (EDA) while staying simple enough for all data scientists to be able to pick up without an issue. Recently, our group at NJIT has created a new graph analysis library based off Arkouda under the name Arachne. The purpose of this tutorial is to provide a comprehensive view of typical pipelines that can be built and integrated with Arkouda. We will first begin by introducing an overview of Arkouda for and then move to Arachne. Examples will be provided with the questions and problems data scientists may want to answer and how Arkouda and Arachne can fit in to solve said problems. We will conclude with questions and further work that our group is planning for Arachne. Both Arkouda and Arachne are open-source and found on GitHub.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
