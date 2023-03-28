@@ -29,19 +29,10 @@ publication_types: ['1']
 publication: In *International Research Journal of Engineering and Technology*
 publication_short: In *IRJET*
 
-abstract: Healthcare is one of the most important industries
-in today's time. There has been significant development in
-the field of healthcare which has not only reduced the
-mortality rate but also contributed to a safe lifestyle for
-everyone. Indeed, there is a likelihood of pandemics to strike
-humanity at any point in time. Being prepared for such
-pandemics is the ideology behind our area of research where
-we employ technologies like Android Studio and Swift in
-assistance with Firebase Realtime Database. These
-fundamental variables will help us determine the cause of a
-pandemic and aid us in providing precautionary measures to
-reduce the psychological and physical damage to human life
-as much as possible.
+abstract: Healthcare is one of the most important industries in today's time. There has been significant development in the field of healthcare which has not only reduced the 
+  mortality rate but also contributed to a safe lifestyle for everyone. Indeed, there is a likelihood of pandemics to strike humanity at any point in time. Being prepared for such
+  pandemics is the ideology behind our area of research where we employ technologies like Android Studio and Swift in assistance with Firebase Realtime Database. These fundamental variables will help us determine the cause of a
+  pandemic and aid us in providing precautionary measures to reduce the psychological and physical damage to human life as much as possible.
 
 # Summary. An optional shortened abstract.
 # summary:
