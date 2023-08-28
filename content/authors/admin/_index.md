@@ -73,15 +73,16 @@ highlight_name: true
 
 
 <p style='text-align: justify;'>
-Hello, my name is Naren. I am currently a Ph.D. student at the New Jersey Institute of Technology (NJIT) in Newark, majoring in Computer Science. My current research area lies in the domain of cybersecurity, with a particular focus on database security and graph algorithms. In addition to my studies, I also serve as a Teaching Assistant for the course ----.
+Hello! I'm Naren, a dedicated Ph.D. student at the New Jersey Institute of Technology (NJIT), majoring in Computer Science. My research passion lies in cybersecurity, with a keen interest in database security and graph algorithms. Alongside my research, I'm honored to contribute as a Teaching Assistant for a pivotal course at NJIT.
 </p>
 
 <p style='text-align: justify;'>
-Before my current role, I was a Graduate Researcher at NJIT, where my research primarily revolved around the domain of Parallel and High Performance Computing. Additionally, during the summer of 2022, I had the privilege of interning at Forbes as a Technology Engineering Intern in Jersey City, New Jersey. There, I worked alongside the Platform & Product Engineering Team to enhance the in-house Content Management System and was instrumental in developing the new Mobile Application for Forbes Daily Dozen, aiming to replace the existing technology and drive more traffic.
+Before delving deep into cybersecurity, I explored the realm of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes during the summer of 2022. As a Technology Engineering Intern in Jersey City, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and pioneering the development of the new Mobile Application for Forbes Daily Dozen.
 </p>
 
 <p style='text-align: justify;'>
-In addition to my academic pursuits, I am affiliated with GitHub as a Campus Expert. My role involves building diverse and inclusive communities where members can acquire new skills, collaborate on projects, and share their experiences. The community I am nurturing is the NJIT HPC Initiative. Our primary objective is to introduce students to High-Performance Computing as a promising research domain and to dispel any apprehensions they might have about it. Alongside these efforts, I also organize events in partnership with GitHub on campus, aiming to foster collaboration, innovation, and the open-source spirit among students.
+Outside the confines of traditional academia, I proudly wear the hat of a GitHub Campus Expert. I spearhead the NJIT HPC Initiative, aiming to demystify High-Performance Computing for students and foster a deeper understanding of its potential. Through this platform, I not only introduce students to this promising research domain but also organize collaborative events in partnership with GitHub, championing the ethos of open-source and innovation.
 </p>
+
 
 
