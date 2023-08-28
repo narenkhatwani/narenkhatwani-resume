@@ -31,8 +31,8 @@ interests:
 education:
   courses:
     - course: PhD in Computer Science 
-    - institution: New Jersey Institute of Technology
-    - year: Present
+      institution: New Jersey Institute of Technology
+      year: Present
     - course: Masters in Computer Science
       institution: New Jersey Institute of Technology
       year: 2023
