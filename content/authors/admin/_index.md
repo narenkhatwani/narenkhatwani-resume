@@ -73,7 +73,7 @@ highlight_name: true
 
 
 <p style='text-align: justify;'>
-Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT). My research passion lies in the filed of Ontologies, with a keen interest in Massive Scale Analytics and . Alongside my research, I am a Teaching Assistant for Advanced Database System Design
+Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT). My research passion lies in the filed of Ontologies, with a keen interest in Massive Scale Analytics. Alongside my research, I am a Teaching Assistant for Advanced Database System Design
 
 <p style='text-align: justify;'>
 Before delving deep into ontologies, I explored the domain of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes during the summer of 2022. As a Technology Engineering Intern in Jersey City, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and pioneering the development of the new Mobile Application for Forbes Daily Dozen.
