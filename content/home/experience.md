@@ -29,7 +29,7 @@ experience:
     location: New Jersey
     date_start: '2024-10-01'
     date_end: ''
-    description: Non-Teaching Assistant for two sections of CS 632 - Advanced Database Management System (Dr James Geller and Dr Eren Canan). Offering weekly consultations during dedicated office hours to address graduate student questions and provide clarifications. Additionally, assessing and grading student assignments, exams, projects, and homework, ensuring timely and accurate feedback
+    description: Non-Teaching Assistant for two sections of CS 632 - Advanced Database Management System (Dr James Geller and Dr Eren Canan). Offering weekly consultations during dedicated office hours to address graduate student questions and provide clarifications. Additionally, assessing and grading student assignments, exams, projects, and homework, ensuring timely and accurate feedback.
 
   - title: Graduate Researcher
     company: New Jersey Institute of Technology
