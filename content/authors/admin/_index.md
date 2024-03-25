@@ -22,15 +22,15 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Database Security
+  - Ontologies
   - High Performance Computing
   - Massive-Scale Analytics
-  - Graph Algorithms
+  - Mobile Sensing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Computer Science 
+    - course: PhD in Data Science
       institution: New Jersey Institute of Technology
       year: Present
     - course: Masters in Computer Science
@@ -73,15 +73,14 @@ highlight_name: true
 
 
 <p style='text-align: justify;'>
-Hello! I'm Naren, a dedicated Ph.D. student at the New Jersey Institute of Technology (NJIT), majoring in Computer Science. My research passion lies in cybersecurity, with a keen interest in database security and graph algorithms. Alongside my research, I'm honored to contribute as a Teaching Assistant for a pivotal course at NJIT.
+Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT). My research passion lies in the filed of Ontologies, with a keen interest in Massive Scale Analytics and . Alongside my research, I am a Teaching Assistant for Advanced Database System Design
+
+<p style='text-align: justify;'>
+Before delving deep into ontologies, I explored the domain of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes during the summer of 2022. As a Technology Engineering Intern in Jersey City, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and pioneering the development of the new Mobile Application for Forbes Daily Dozen.
 </p>
 
 <p style='text-align: justify;'>
-Before delving deep into cybersecurity, I explored the realm of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes during the summer of 2022. As a Technology Engineering Intern in Jersey City, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and pioneering the development of the new Mobile Application for Forbes Daily Dozen.
-</p>
-
-<p style='text-align: justify;'>
-Outside the confines of traditional academia, I proudly wear the hat of a GitHub Campus Expert. I spearhead the NJIT HPC Initiative, aiming to demystify High-Performance Computing for students and foster a deeper understanding of its potential. Through this platform, I not only introduce students to this promising research domain but also organize collaborative events in partnership with GitHub, championing the ethos of open-source and innovation.
+Outside my academic comitments, I am a GitHub Campus Expert, where I strive to build diverse and inclusive communities to learn skills, collaborate on projects, and share experiences. Through this platform, I not only introduce students to promising research domains but also organize collaborative events in partnership with GitHub, Association of Computing Machinery (ACM) - NJIT chapter focusing on open-source learning and innovation.
 </p>
 
 
