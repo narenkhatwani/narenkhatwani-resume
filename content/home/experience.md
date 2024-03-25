@@ -22,13 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+ - title: Teaching Assistant 
+    company: New Jersey Institute of Technology
+    company_url: 'https://www.njit.edu/'
+    company_logo:
+    location: New Jersey
+    date_start: '2024-10-01'
+    date_end: ''
+    description: Non-Teaching Assistant for two sections of CS 632 - Advanced Database Management System (Dr James Geller and Dr Eren Canan). Offering weekly consultations during dedicated office hours to address graduate student questions and provide clarifications. Additionally, assessing and grading student assignments, exams, projects, and homework, ensuring timely and accurate feedback
+
   - title: Graduate Researcher
     company: New Jersey Institute of Technology
     company_url: 'https://www.njit.edu/'
     company_logo:
     location: New Jersey
     date_start: '2021-09-01'
-    date_end: ''
+    date_end: '2023-08-15'
     description: Research a software package (Arkouda) allowing users to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy (the underlying computational library used in most Python data science workflows). Another objective of my work was to test how a user can experience Arkouda, do a performance comparison study and craft tutorials for Data Analytics using Arkouda.
 
   - title: Technology Engineering Intern
