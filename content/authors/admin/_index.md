@@ -22,10 +22,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Ontologies
-  - High Performance Computing
+  - Biomedical Ontologies
+  - Medical Informatics
   - Massive-Scale Analytics
-  - Mobile Sensing
+  - Ontology Enrichment
 
 # Education to show in About widget
 education:
