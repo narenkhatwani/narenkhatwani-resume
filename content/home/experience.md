@@ -22,14 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Teaching Assistant 
+  - title: Adjunct Instructor
     company: New Jersey Institute of Technology
     company_url: 'https://www.njit.edu/'
     company_logo:
     location: New Jersey
     date_start: '2024-10-01'
     date_end: ''
-    description: Non-Teaching Assistant for two sections of CS 632 - Advanced Database Management System (Dr James Geller and Dr Eren Canan). Offering weekly consultations during dedicated office hours to address graduate student questions and provide clarifications. Additionally, assessing and grading student assignments, exams, projects, and homework, ensuring timely and accurate feedback.
+    description:  Taught CS 331: Database System Design and Management, focusing on key concepts such as database design, SQL programming, normalization, and transaction management, providing both theoretical and practical knowledge. Developed comprehensive course materials and assessments, ensuring students gain a robust understanding of database systems and are well-prepared for real-world applications in the field.
+
+  - title: Teaching Assistant 
+    company: New Jersey Institute of Technology
+    company_url: 'https://www.njit.edu/'
+    company_logo:
+    location: New Jersey
+    date_start: '2024-10-01'
+    date_end: '2024-08-31'
+    description: Teaching Assistant for CS 632 - Advanced Database System Design, CS 331 - Database System Design
+    and Management. Offering weekly consultations during dedicated office hours to address graduate student questions and provide clarifications. Additionally, assessing and grading student assignments, exams, projects, and homework, ensuring timely and accurate feedback.
 
   - title: Graduate Researcher
     company: New Jersey Institute of Technology
