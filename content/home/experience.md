@@ -29,7 +29,7 @@ experience:
     location: New Jersey
     date_start: '2024-10-01'
     date_end: ''
-    description:  Taught CS 331: Database System Design and Management, focusing on key concepts such as database design, SQL programming, normalization, and transaction management, providing both theoretical and practical knowledge. Developed comprehensive course materials and assessments, ensuring students gain a robust understanding of database systems and are well-prepared for real-world applications in the field.
+    description:  Taught CS 331 - Database System Design and Management, focusing on key concepts such as database design, SQL programming, normalization, and transaction management, providing both theoretical and practical knowledge. Developed comprehensive course materials and assessments, ensuring students gain a robust understanding of database systems and are well-prepared for real-world applications in the field.
 
   - title: Teaching Assistant 
     company: New Jersey Institute of Technology
