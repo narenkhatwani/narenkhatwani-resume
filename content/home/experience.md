@@ -36,7 +36,7 @@ experience:
     company_url: 'https://www.njit.edu/'
     company_logo:
     location: New Jersey
-    date_start: '2024-10-01'
+    date_start: '2023-09-01'
     date_end: '2024-08-31'
     description: Teaching Assistant for CS 632 - Advanced Database System Design, CS 331 - Database System Design and Management. Offering weekly consultations during dedicated office hours to address graduate student questions and provide clarifications. Additionally assessing and grading student assignments, exams, projects, and homework, ensuring timely and accurate feedback.
 
