@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Population Group 2.0: Bringing the UMLS Semantic Network up to Speed'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,7 +7,6 @@ title: ''
 authors:
   - admin
   - James geller
-
 
 # Author notes (optional)
 # author_notes:
