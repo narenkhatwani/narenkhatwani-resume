@@ -24,7 +24,7 @@ bio:
 interests:
   - Biomedical Ontologies
   - Medical Informatics
-  - Massive-Scale Analytics
+  - Incremental Ontology Expansion
   - Ontology Enrichment
 
 # Education to show in About widget
@@ -73,14 +73,14 @@ highlight_name: true
 
 
 <p style='text-align: justify;'>
-Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT). My research lies in the field of Biomedical ontologies, with a keen interest in Ontology Encrichment and Concept Goodness. Alongside my research, I am an Adjunct Instructor teaching Database System Design and Management (CS 331).
+Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT). My research lies in the domain of Biomedical ontologies, with a focus primarily on Incremental Ontology Expansion and Concept Goodness. Alongside my research, I am an Adjunct Instructor teaching Database System Design and Management (CS 331) and a Teaching Assistant for graduate level courses.
 
 <p style='text-align: justify;'>
-Before diving deep into ontologies, I explored the domain of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes during the summer of 2022. As a Technology Engineering Intern @ Forbes, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and initiating the development of the new Mobile Application for Forbes Daily Dozen newsletter.
+Before moving to Biomedical Ontologies, I explored the domain of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes Media LLC during the Summer of 2022. As a Technology Engineering Intern @ Forbes, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and initiating the development of the new Mobile Application for Forbes Daily Dozen Newsletter.
 </p>
 
 <p style='text-align: justify;'>
-Outside my academic comitments, I am a GitHub Campus Expert, where I strive to build diverse and inclusive communities to learn skills, collaborate on projects, and share experiences. Through this platform, I not only introduce students to promising research domains but also organize collaborative events in partnership with GitHub, Association of Computing Machinery (ACM) - NJIT chapter and and Graduate Women in Computing (GWiCS) focusing on open-source learning and innovation.
+Apart from my academic commitments, I am a GitHub Campus Expert, where I build diverse and inclusive communities to learn skills, collaborate on projects, and share experiences. Through this platform, I introduce students to promising research domains and organize collaborative events in partnership with GitHub, Association of Computing Machinery (ACM) - NJIT chapter & Graduate Women in Computing (GWiCS) focusing on open-source learning and innovation.
 </p>
 
 

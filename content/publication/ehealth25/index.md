@@ -26,10 +26,10 @@ publishDate: '2025-07-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In **
+publication: In *17th International Conference on e-Health*
 publication_short: In *e-health 2025*
 
-abstract: In
+abstract: A good medical ontology is expected to cover its domain completely and correctly. On the other hand, large ontologies are hard to build, hard to understand, and hard to maintain. Thus, adding new concepts (often multi-word concepts) to an existing ontology must be done judiciously. In this research, we propose a two-stage framework for evaluating candidate concepts for ontology expansion. The framework first employs a utility function that evaluates each candidate concept based on Semantic Relevance and Redundancy Avoidance. For candidates that meet a minimum utility threshold, a secondary Goodness Function is applied to evaluate an additional qualitative aspect, namely contextual fit. This framework of combining a utility metric with a goodness metric will be helpful for expert staff working on maintaining and extending ontologies. This systematic approach will enable the incremental expansion of ontologies while maintaining both depth and contextual relevance by integrating only concepts with high “utility.”
 
 # Summary. An optional shortened abstract.
 # summary:
@@ -51,9 +51,9 @@ featured: false
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
-url_project: 'https://github.com/narenkhatwani/population-group-2.0'
+url_project: 'https://github.com/narenkhatwani/concept-utility-case-study'
 # url_slides: ''
-url_source: 'https://ebooks.iospress.nl/doi/10.3233/SHTI250627'
+url_source: ''
 # url_video: ''
 
 # Featured image
