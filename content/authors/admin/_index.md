@@ -30,7 +30,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Data Science
+    - course: Ph.D in Data Science
       institution: New Jersey Institute of Technology
       year: Present
     - course: Masters in Computer Science
