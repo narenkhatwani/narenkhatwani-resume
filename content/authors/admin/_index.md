@@ -76,7 +76,7 @@ highlight_name: true
 Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT). My research lies in the domain of Biomedical ontologies, with a focus primarily on Incremental Ontology Expansion and Concept Goodness. Alongside my research, I am an Adjunct Instructor teaching Database System Design and Management (CS 331) and a Teaching Assistant for graduate level courses.
 
 <p style='text-align: justify;'>
-Before moving to Biomedical Ontologies, I explored the domain of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes Media LLC during the Summer of 2022. As a Technology Engineering Intern @ Forbes, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and initiating the development of the new Mobile Application for Forbes Daily Dozen Newsletter.
+Before moving to Biomedical Ontologies, I explored the domain of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes Media LLC during the Summer of 2022. As a Technology Engineering Intern at Forbes, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and initiating the development of the new Mobile Application for Forbes Daily Dozen Newsletter.
 </p>
 
 <p style='text-align: justify;'>
