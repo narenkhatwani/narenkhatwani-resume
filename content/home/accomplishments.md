@@ -31,7 +31,7 @@ item:
     organization: GitHub, San Francisco, USA
     organization_url: https://githubuniverse.com/
     title: GitHub Universe '24 Travel Award
-    url:
+    url: 'https://www.linkedin.com/posts/narenkhatwani_githubuniverse2024-activity-7257942571778273280-hsV2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACr0OPUBsW8rDZ3lUppxB_iD2Eivlu622GE'
   - certificate_url:
     date_end:
     date_start: '2023-01-01'
@@ -39,7 +39,7 @@ item:
     organization: GitHub, San Francisco, USA
     organization_url: https://githubuniverse.com/
     title: GitHub Universe '23 Travel Award
-    url:
+    url: 'https://narenkhatwaniblogs.com/blog/github-universe-blog/'
 
 design:
   columns: '2'

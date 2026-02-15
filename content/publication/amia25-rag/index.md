@@ -24,3 +24,4 @@ links:
   - name: Cite / View
     url: 'https://amia.org/education-events/amia-2025-informatics-summit'
 ---
+{{< citation >}}

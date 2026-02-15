@@ -25,3 +25,4 @@ links:
   - name: PDF
     url: 'https://arxiv.org/pdf/2409.06150'
 ---
+{{< citation >}}

@@ -78,7 +78,7 @@ url_source: 'https://knowledge.amia.org/A2025/content?act=2025Annuala373&pdf=202
 #   Otherwise, set `slides: ""`.
 # slides:
 ---
-
+{{< citation >}}
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}

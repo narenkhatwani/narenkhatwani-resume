@@ -24,3 +24,4 @@ links:
   - name: Cite / View
     url: 'https://mie2025.efmi.org/'
 ---
+{{< citation >}}

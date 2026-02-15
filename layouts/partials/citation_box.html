@@ -1,0 +1,70 @@
+{{ $page := . }}
+{{ $authors := slice }}
+{{ range $page.Params.authors }}
+  {{ $name := string . }}
+  {{ $authorPage := $page.Site.GetPage (printf "/authors/%s" $name) }}
+  {{ if and $authorPage $authorPage.Title }}
+    {{ $authors = $authors | append $authorPage.Title }}
+  {{ else }}
+    {{ $authors = $authors | append $name }}
+  {{ end }}
+{{ end }}
+{{ $authorStr := delimit $authors ", " }}
+{{ $year := $page.Date.Format "2006" }}
+{{ $pub := $page.Params.publication | default "" }}
+{{ $citation := printf "%s (%s). %s. %s" $authorStr $year $page.Title $pub }}
+<div class="citation-box-wrapper mt-4 mb-4">
+  <p class="citation-box-label mb-2"><strong>Cite this work</strong></p>
+  <div class="citation-box">
+    <pre class="citation-text mb-0">{{ $citation }}</pre>
+  </div>
+  <button type="button" class="citation-copy-btn btn btn-sm btn-outline-primary mt-2" aria-label="Copy citation">
+    Copy citation
+  </button>
+</div>
+<style>
+.citation-box-wrapper { font-size: 0.95rem; }
+.citation-box {
+  background: var(--global-bg-color, #f8f9fa);
+  border: 1px solid rgba(0,0,0,0.1);
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  overflow-x: auto;
+}
+.citation-box .citation-text {
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: inherit;
+  font-size: 0.9em;
+  color: inherit;
+  margin: 0;
+}
+.citation-copy-btn { font-size: 0.85rem; }
+</style>
+<script>
+(function() {
+  document.querySelectorAll('.citation-copy-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var wrapper = this.closest('.citation-box-wrapper');
+      var textEl = wrapper ? wrapper.querySelector('.citation-text') : null;
+      if (!textEl) return;
+      var text = textEl.textContent.trim();
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(function() {
+          btn.textContent = 'Copied!';
+          setTimeout(function() { btn.textContent = 'Copy citation'; }, 2000);
+        });
+      } else {
+        var ta = document.createElement('textarea');
+        ta.value = text;
+        document.body.appendChild(ta);
+        ta.select();
+        document.execCommand('copy');
+        document.body.removeChild(ta);
+        btn.textContent = 'Copied!';
+        setTimeout(function() { btn.textContent = 'Copy citation'; }, 2000);
+      }
+    });
+  });
+})();
+</script>

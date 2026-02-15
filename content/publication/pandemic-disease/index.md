@@ -78,7 +78,7 @@ url_pdf: content/publication/pandemic-disease/IRJET-V7I9550.pdf
 #   Otherwise, set `slides: ""`.
 # slides:
 ---
-
+{{< citation >}}
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}

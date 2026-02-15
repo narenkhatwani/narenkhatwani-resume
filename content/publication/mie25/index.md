@@ -74,7 +74,7 @@ url_source: 'https://ebooks.iospress.nl/doi/10.3233/SHTI250627'
 #   Otherwise, set `slides: ""`.
 # slides:
 ---
-
+{{< citation >}}
 <!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
