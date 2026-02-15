@@ -1,31 +1,39 @@
-/* Experience: keep timeline for top 4; remove it only for items under "Show more" */
-#experience .experience-more-block .card::before,
-#experience .experience-more-block .card::after,
-#experience .experience-more-block .article-style::before,
-#experience .experience-more-block .article-style::after,
-#experience .experience-more-block .card-body::before,
-#experience .experience-more-block .card-body::after,
-#experience .experience-more-block .card-block::before,
-#experience .experience-more-block .card-block::after,
-#experience .experience-more-block [class*="col-"]::before,
-#experience .experience-more-block [class*="col-"]::after,
-#experience .experience-more-block .stream,
-#experience .experience-more-block .stream::before,
-#experience .experience-more-block .stream::after {
+/* Experience: remove timeline entirely (circles + line) - no overflow possible */
+#experience .card::before,
+#experience .card::after,
+#experience .article-style::before,
+#experience .article-style::after,
+#experience .card-body::before,
+#experience .card-body::after,
+#experience .card-block::before,
+#experience .card-block::after,
+#experience [class*="col-"]::before,
+#experience [class*="col-"]::after,
+#experience .stream,
+#experience .stream::before,
+#experience .stream::after,
+#experience [class*="stream"],
+#experience [class*="timeline"],
+#experience .row::before,
+#experience .row::after,
+#experience .wg-experience .card::before,
+#experience .wg-experience .card::after,
+#experience .wg-experience [class*="col"]::before,
+#experience .wg-experience [class*="col"]::after {
   display: none !important;
   content: none !important;
   background: none !important;
   border: none !important;
+  height: 0 !important;
+  overflow: hidden !important;
 }
-/* Optional: left-accent bar only for "Show more" cards so they still have structure */
-#experience .experience-more-block .card,
-#experience .experience-more-block .article-style,
-#experience .experience-more-block [class*="col-"] .card {
-  border-left: 4px solid var(--global-theme-color, #007bff);
-  padding-left: 1rem;
-}
-#experience .experience-more-block {
-  overflow: visible;
+/* Single design for all experience cards: left-accent bar (no timeline) */
+#experience .card,
+#experience .article-style,
+#experience [class*="col-"] .card {
+  border-left: 4px solid var(--global-theme-color, #007bff) !important;
+  padding-left: 1rem !important;
+  margin-bottom: 1.25rem;
 }
 #experience .experience-toggle-spacer.col-12 {
   flex: 0 0 100%;

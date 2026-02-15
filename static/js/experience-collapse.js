@@ -48,4 +48,16 @@
       btn.setAttribute('aria-expanded', 'false');
     }
   });
+
+  hideExperienceTimeline();
+  setTimeout(hideExperienceTimeline, 150);
 })();
+
+function hideExperienceTimeline() {
+  var section = document.getElementById('experience');
+  if (!section) return;
+  var sel = section.querySelectorAll('[class*="stream"], [class*="timeline"], [class*="connector"]');
+  for (var i = 0; i < sel.length; i++) {
+    sel[i].style.setProperty('display', 'none', 'important');
+  }
+}
