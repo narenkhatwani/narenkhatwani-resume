@@ -44,8 +44,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Cite / View
-    url: '/publication/pandemic-disease/'
+  - name: Cite
+    url: '#citation'
+  - name: Source
+    url: '/publication/pandemic-disease/IRJET-V7I9550.pdf'
 
 url_pdf: content/publication/pandemic-disease/IRJET-V7I9550.pdf
 # url_code: ''

@@ -20,7 +20,9 @@ featured: false
 url_pdf: 'https://arxiv.org/pdf/2409.06150'
 url_source: 'https://arxiv.org/abs/2409.06150'
 links:
-  - name: Cite / View
+  - name: Cite
+    url: '#citation'
+  - name: Source
     url: 'https://arxiv.org/abs/2409.06150'
   - name: PDF
     url: 'https://arxiv.org/pdf/2409.06150'

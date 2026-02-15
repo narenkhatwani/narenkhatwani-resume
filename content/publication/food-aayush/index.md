@@ -43,8 +43,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Cite / View
-    url: '/publication/food-aayush/'
+  - name: Cite
+    url: '#citation'
+  - name: Source
+    url: '/publication/food-aayush/food-aayush.pdf'
 
 url_pdf: content/publication/food-aayush/food-aayush.pdf
 # url_code: ''

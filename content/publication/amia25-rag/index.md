@@ -21,7 +21,9 @@ featured: false
 
 url_source: 'https://amia.org/education-events/amia-2025-informatics-summit'
 links:
-  - name: Cite / View
+  - name: Cite
+    url: '#citation'
+  - name: Source
     url: 'https://amia.org/education-events/amia-2025-informatics-summit'
 ---
 {{< citation >}}

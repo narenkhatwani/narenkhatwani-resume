@@ -40,7 +40,9 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Cite / View
+  - name: Cite
+    url: '#citation'
+  - name: Source
     url: 'https://ebooks.iospress.nl/doi/10.3233/SHTI250627'
 
 # url_pdf: 

@@ -13,7 +13,7 @@
 {{ $year := $page.Date.Format "2006" }}
 {{ $pub := $page.Params.publication | default "" }}
 {{ $citation := printf "%s (%s). %s. %s" $authorStr $year $page.Title $pub }}
-<div class="citation-box-wrapper mt-4 mb-4">
+<div class="citation-box-wrapper mt-4 mb-4" id="citation">
   <p class="citation-box-label mb-2"><strong>Cite this work</strong></p>
   <div class="citation-box">
     <pre class="citation-text mb-0">{{ $citation }}</pre>

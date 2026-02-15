@@ -21,7 +21,9 @@ featured: false
 
 url_source: 'https://mie2025.efmi.org/'
 links:
-  - name: Cite / View
+  - name: Cite
+    url: '#citation'
+  - name: Source
     url: 'https://mie2025.efmi.org/'
 ---
 {{< citation >}}

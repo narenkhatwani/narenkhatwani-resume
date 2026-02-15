@@ -44,7 +44,9 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Cite / View
+  - name: Cite
+    url: '#citation'
+  - name: Source
     url: 'https://knowledge.amia.org/A2025/content?act=2025Annuala373&pdf=2025fl373'
 
 # url_pdf: 

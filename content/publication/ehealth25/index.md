@@ -44,7 +44,9 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-  - name: Cite / View
+  - name: Cite
+    url: '#citation'
+  - name: Source
     url: 'https://github.com/narenkhatwani/concept-utility-case-study'
 
 # url_pdf:
