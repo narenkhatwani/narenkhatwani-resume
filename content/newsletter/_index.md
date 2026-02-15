@@ -7,26 +7,7 @@ Stay updated with my latest research, talks, and occasional notes. No spam—uns
 
 <div class="newsletter-embed">
 
-### Subscribe by email
-
-<form
-  action="https://buttondown.com/api/emails/embed-subscribe/narenkhatwani"
-  method="post"
-  class="embeddable-buttondown-form newsletter-form"
-  referrerpolicy="unsafe-url"
->
-  <label for="bd-email">Enter your email</label>
-  <input type="email" name="email" id="bd-email" required placeholder="you@example.com" />
-  <input type="submit" value="Subscribe" />
-</form>
-
-<p class="newsletter-powered">
-  <a href="https://buttondown.com/refer/narenkhatwani" target="_blank" rel="noopener">
-    Powered by Buttondown
-  </a>
-</p>
-
-### Recent issues
+Subscribe and browse recent issues below.
 
 <iframe
   scrolling="no"
@@ -35,5 +16,11 @@ Stay updated with my latest research, talks, and occasional notes. No spam—uns
   src="https://buttondown.com/narenkhatwani?as_embed=true"
   title="Buttondown newsletter archive"
 ></iframe>
+
+<p class="newsletter-powered">
+  <a href="https://buttondown.com/refer/narenkhatwani" target="_blank" rel="noopener">
+    Powered by Buttondown
+  </a>
+</p>
 
 </div>
