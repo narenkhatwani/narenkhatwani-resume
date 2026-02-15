@@ -63,9 +63,6 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/narenkhatwani/
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'narenkhatwani.work@gmail.com'
@@ -75,6 +72,7 @@ highlight_name: true
 ---
 
 
+<p class="about-download-cv-wrap"><a href="/uploads/cv.pdf" class="btn-download-cv" download>Download CV</a></p>
 <p style='text-align: justify;'>
 Hello! I'm Naren, a Data Science Ph.D. student at the <a href="https://ds.njit.edu/" target="_blank" rel="noopener">New Jersey Institute of Technology (NJIT)</a> Data Science department under the supervision of <a href="https://people.njit.edu/profile/geller" target="_blank" rel="noopener">Dr. James Geller</a> and <a href="https://people.njit.edu/profile/lw29" target="_blank" rel="noopener">Dr. Lijing Wang</a>. My research lies in the domain of Biomedical ontologies, with a focus primarily on Incremental Ontology Expansion and Concept Goodness. Alongside my research, I am an Adjunct Instructor teaching <a href="https://digitalcommons.njit.edu/cgi/viewcontent.cgi?article=1485&context=cs-syllabi" target="_blank" rel="noopener">Database System Design and Management (CS 331)</a> and a Teaching Assistant for graduate level courses.
 </p>

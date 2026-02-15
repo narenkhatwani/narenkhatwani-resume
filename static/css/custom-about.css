@@ -5,6 +5,25 @@
   text-align: justify !important;
 }
 
+/* About widget: Download CV button below social icons */
+.about-download-cv-wrap { margin: 0.75rem 0 1rem !important; }
+.btn-download-cv {
+  display: inline-block;
+  padding: 0.5rem 1.25rem;
+  background: var(--global-theme-color, #007bff);
+  color: #fff !important;
+  border-radius: 6px;
+  text-decoration: none !important;
+  font-weight: 500;
+  font-size: 0.95rem;
+  border: none;
+  transition: opacity 0.2s;
+}
+.btn-download-cv:hover {
+  color: #fff !important;
+  opacity: 0.9;
+}
+
 /* Awards section: heading black instead of gray */
 #accomplishments .section-heading,
 #accomplishments h1,
