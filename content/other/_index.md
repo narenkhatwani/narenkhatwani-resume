@@ -3,6 +3,8 @@ title: Other
 cms_exclude: true
 ---
 
+<div class="other-content-justify">
+
 **I am a Data Science PhD student 📝 on weekdays, and an explorer 📷 on the weekend.**
 
 ---
@@ -47,5 +49,7 @@ A few photos I love.
 ![Photo 13](/images/other-gallery/13.jpg)
 ![Photo 14](/images/other-gallery/14.jpg)
 ![Photo 15](/images/other-gallery/15.jpg)
+
+</div>
 
 </div>

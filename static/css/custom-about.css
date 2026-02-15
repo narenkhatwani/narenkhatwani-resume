@@ -103,10 +103,11 @@
 }
 
 /* Other page: justify text */
+.other-content-justify p,
 #other p,
 #other .article-style p,
 #other .content p {
-  text-align: justify;
+  text-align: justify !important;
 }
 
 /* Other page: photography gallery grid */
