@@ -1,35 +1,41 @@
-// Custom styles: reduce empty space in About/Biography section
-// Narrower left column (profile + social links), wider right column (biography)
+// Site-wide: narrower left column, wider right column (all sections aligned)
+// Applies to About, Experience, Publications, Accomplishments, Talks, Extracurricular
 
-#about {
+section {
   .row {
     align-items: start;
   }
-  // Left column: profile picture and social links — use less width (26% vs default 33%)
   .col-lg-4 {
     @media (min-width: 992px) {
-      flex: 0 0 26%;
-      max-width: 26%;
+      flex: 0 0 22%;
+      max-width: 22%;
     }
   }
-  // Right column: biography and details — use more width (74% vs default 66%)
   .col-lg-8 {
     @media (min-width: 992px) {
-      flex: 0 0 74%;
-      max-width: 74%;
+      flex: 0 0 78%;
+      max-width: 78%;
     }
   }
-  // Fallback: if theme uses different column classes, target by position in main row
   .row > .col-12.col-lg-4:first-child {
     @media (min-width: 992px) {
-      flex: 0 0 26%;
-      max-width: 26%;
+      flex: 0 0 22%;
+      max-width: 22%;
     }
   }
   .row > .col-12.col-lg-8:last-child {
     @media (min-width: 992px) {
-      flex: 0 0 74%;
-      max-width: 74%;
+      flex: 0 0 78%;
+      max-width: 78%;
     }
+  }
+}
+
+@media (max-width: 991.98px) {
+  section .col-lg-4,
+  section .col-lg-8,
+  section .row > .col-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
   }
 }

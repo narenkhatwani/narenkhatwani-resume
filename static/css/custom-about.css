@@ -1,35 +1,36 @@
-/* Reduce empty space in About/Biography: narrower left column, wider right column */
+/* Site-wide: narrower left column, wider right column (all sections aligned) */
 
-#about .row {
+/* Apply to all sections on the page so About, Experience, Publications, etc. stay aligned */
+section .row {
   align-items: start;
 }
 
-#about .col-lg-4 {
-  flex: 0 0 26%;
-  max-width: 26%;
+section .col-lg-4 {
+  flex: 0 0 22%;
+  max-width: 22%;
 }
 
-#about .col-lg-8 {
-  flex: 0 0 74%;
-  max-width: 74%;
+section .col-lg-8 {
+  flex: 0 0 78%;
+  max-width: 78%;
 }
 
 /* Fallback for theme using col-12 + col-lg-4/8 */
-#about .row > .col-12.col-lg-4:first-child {
-  flex: 0 0 26%;
-  max-width: 26%;
+section .row > .col-12.col-lg-4:first-child {
+  flex: 0 0 22%;
+  max-width: 22%;
 }
 
-#about .row > .col-12.col-lg-8:last-child {
-  flex: 0 0 74%;
-  max-width: 74%;
+section .row > .col-12.col-lg-8:last-child {
+  flex: 0 0 78%;
+  max-width: 78%;
 }
 
 /* Mobile: keep full width */
 @media (max-width: 991.98px) {
-  #about .col-lg-4,
-  #about .col-lg-8,
-  #about .row > .col-12 {
+  section .col-lg-4,
+  section .col-lg-8,
+  section .row > .col-12 {
     flex: 0 0 100%;
     max-width: 100%;
   }
