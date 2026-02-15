@@ -27,14 +27,20 @@
   height: 0 !important;
   overflow: hidden !important;
 }
-/* Single design for all experience cards: left-accent bar (no timeline) */
+/* Experience: left-accent bar only (custom widget has no timeline markup) */
 #experience .card,
 #experience .article-style,
+#experience .experience-card-plain,
 #experience [class*="col-"] .card {
   border-left: 4px solid var(--global-theme-color, #007bff) !important;
   padding-left: 1rem !important;
   margin-bottom: 1.25rem;
 }
+#experience .experience-card-plain .card-body { padding-left: 0.5rem; }
+#experience .exp-title { margin-bottom: 0.35rem; }
+#experience .exp-meta { font-size: 0.95rem; margin-bottom: 0.25rem; }
+#experience .exp-date { font-size: 0.85rem; color: var(--global-theme-color, #007bff); margin-bottom: 0.5rem; }
+#experience .exp-desc { text-align: justify; }
 #experience .experience-toggle-spacer.col-12 {
   flex: 0 0 100%;
   max-width: 100%;

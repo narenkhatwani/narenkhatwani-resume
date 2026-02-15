@@ -1,0 +1,36 @@
+{{ $page := . }}
+{{ $date_format := .Params.date_format | default "Jan 2006" }}
+{{ $columns := .Params.design.columns | default 2 }}
+
+<div class="experience-widget-plain">
+  {{ with .Params.experience }}
+  <div class="row">
+    {{ range . }}
+    <div class="col-md-6 col-lg-6 experience-col-plain">
+      <div class="experience-card-plain card">
+        <div class="card-body">
+          <div class="section-subheading card-title exp-title">
+            {{ .title | markdownify | emojify }}
+          </div>
+          <div class="exp-meta">
+            {{ if .company_url }}
+            <a href="{{ .company_url }}" target="_blank" rel="noopener">{{ .company }}</a>
+            {{ else }}
+            {{ .company }}
+            {{ end }}
+            {{ with .location }} · {{ . }}{{ end }}
+          </div>
+          <div class="exp-date">
+            {{ (time .date_start).Format $date_format }}
+            {{ if .date_end }} – {{ (time .date_end).Format $date_format }}{{ else }} – {{ i18n "present" | default "Present" }}{{ end }}
+          </div>
+          {{ with .description }}
+          <div class="card-text exp-desc">{{ . | markdownify }}</div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
