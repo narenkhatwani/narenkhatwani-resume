@@ -102,6 +102,13 @@
   margin-top: 0.5rem;
 }
 
+/* Other page: justify text */
+#other p,
+#other .article-style p,
+#other .content p {
+  text-align: justify;
+}
+
 /* Other page: photography gallery grid */
 .other-gallery {
   display: grid;

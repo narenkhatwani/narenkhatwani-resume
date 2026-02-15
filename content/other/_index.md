@@ -11,9 +11,9 @@ cms_exclude: true
 
 It’s been **11 years** I have been using professional gear for photography now. However, I want to talk about **how I was introduced to photography as a hobby?**
 
-When I was around **5 years old**, on **Rakshabandhan** that year, I was handed a **film camera** by my dad to click a picture of him and my aunt (dad’s sister). I still remember—it was the first time I ever held a camera in my hand and started clicking pictures with no regard to the film count. Within minutes the camera was grabbed from my hands and I was given a small talk on **how a film camera works!**
+When I was around **5 years old**, on **Rakshabandhan** that year, I was handed a **film camera** by my dad to click a picture of him and my aunt (dad’s sister). I still remember, it was the first time I ever held a camera in my hand and started clicking pictures with no regard to the film count. Within minutes the camera was grabbed from my hands and I was given a small talk on **how a film camera works!**
 
-Since then I always asked for the camera from my parents to click a few pictures whenever we traveled or attended any family events. This went on for a few years until my father **gifting me my first ever professional camera—a Canon 200D DSLR in 2017**—which I used for 5 years. I eventually moved to buying **Sony a7c** as my primary camera and **Fujifilm X-T30 II** as my secondary camera over the next few years. Since then photography has been one of the activities I do almost every day—attaching a picture that I took this week below.
+Since then I always asked for the camera from my parents to click a few pictures whenever we traveled or attended any family events. This went on for a few years until my father **gifting me my first ever professional camera, a Canon 200D DSLR in 2017**, which I used for 5 years. I eventually moved to buying **Sony a7c** as my primary camera and **Fujifilm X-T30 II** as my secondary camera over the next few years. Since then photography has been one of the activities I do almost every day, attaching a picture that I took this week below.
 
 ---
 
@@ -22,7 +22,7 @@ Since then I always asked for the camera from my parents to click a few pictures
 | Role      | Camera / lens |
 |-----------|----------------|
 | **Primary**   | Sony a7c with 24–240mm |
-| **Secondary** | Fujifilm X-T30 II |
+| **Secondary** | Fujifilm X-T30 II with 35mm |
 
 ---
 
