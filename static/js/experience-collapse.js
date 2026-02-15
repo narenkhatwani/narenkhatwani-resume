@@ -13,6 +13,7 @@
   if (items.length <= 4) return;
 
   var showCount = 4;
+  items[showCount - 1].classList.add('experience-last-visible');
   var extra = [];
   for (var i = showCount; i < items.length; i++) {
     extra.push(items[i]);
