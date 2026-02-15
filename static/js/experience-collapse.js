@@ -3,7 +3,6 @@
   var section = document.getElementById('experience');
   if (!section) return;
 
-  // Find experience items: theme may use .col-md-6, .card, or .row > div
   var items = section.querySelectorAll('.col-md-6, .col-lg-6');
   if (items.length === 0) items = section.querySelectorAll('.card');
   if (items.length === 0) {
@@ -13,7 +12,6 @@
   if (items.length <= 4) return;
 
   var showCount = 4;
-  items[showCount - 1].classList.add('experience-last-visible');
   var extra = [];
   for (var i = showCount; i < items.length; i++) {
     extra.push(items[i]);
