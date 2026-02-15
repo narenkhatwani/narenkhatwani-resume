@@ -102,10 +102,23 @@
   margin-top: 0.5rem;
 }
 
-/* Other page: Instagram link after tagline */
+/* Other page: first box (Instagram) – no blank first box */
+.other-first-box {
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: 8px;
+  padding: 0.75rem 1rem;
+  margin-bottom: 0;
+  background: rgba(0, 0, 0, 0.02);
+}
+.other-first-box + p,
+.other-content-justify .other-first-box + * {
+  margin-top: 0;
+}
+
+/* Other page: Instagram link */
 .other-instagram-link {
-  display: inline-block;
-  margin-top: 0.5rem;
+  display: inline;
+  margin-top: 0;
   font-size: 0.95rem;
 }
 .other-instagram-link i.fa-instagram {
@@ -164,20 +177,33 @@
 }
 
 /* Lightbox/enlarged view: keep actual aspect ratio, no squeezing */
+/* Target GLightbox: let container center the image and don't stretch */
+.glightbox-container .gslide-content,
+.glightbox-container .gslide-image,
+.gslide-inner-content {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+.glightbox-container .gslide-image img,
+.glightbox-container .gslide-content img,
 .other-gallery .glightbox img,
 .other-gallery [data-gallery] img,
-.pswp__img,
-.pswp__zoom-wrap,
-.lightbox img,
-.modal-body img,
-[data-fancybox] img,
 .glightbox-content img,
 .other-gallery + .glightbox-container .gslide-image img {
   object-fit: contain !important;
   width: auto !important;
-  max-width: 100% !important;
   height: auto !important;
+  max-width: 100% !important;
   max-height: 100vh !important;
+}
+.pswp__zoom-wrap,
+.pswp__container {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
 }
 .pswp__zoom-wrap img,
 .pswp__img {
@@ -187,7 +213,16 @@
   width: auto !important;
   height: auto !important;
 }
-/* Catch-all: lightbox/modal/overlay images keep aspect ratio (not .other-gallery grid) */
+.lightbox img,
+.modal-body img,
+[data-fancybox] img {
+  object-fit: contain !important;
+  width: auto !important;
+  max-width: 100% !important;
+  height: auto !important;
+  max-height: 100vh !important;
+}
+/* Catch-all: lightbox/modal/overlay images keep aspect ratio */
 [class*="lightbox"] img:not(.other-gallery img),
 [class*="modal"] img,
 [class*="overlay"] img,
@@ -197,5 +232,12 @@
   max-height: 100vh !important;
   width: auto !important;
   height: auto !important;
+}
+/* If lightbox uses background-image instead of img */
+.glightbox-container .gslide-image[style*="background"],
+[class*="glightbox"] [class*="gslide"][style*="background"] {
+  background-size: contain !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
 }
 
