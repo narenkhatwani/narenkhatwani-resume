@@ -28,7 +28,7 @@ Since then I always asked for the camera from my parents to click a few pictures
 
 ## Gallery
 
-A few photos I love (add up to 15 images as `1.jpg`–`15.jpg` in `static/images/other-gallery/`).
+A few photos I love.
 
 <div class="other-gallery">
 

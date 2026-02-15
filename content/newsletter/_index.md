@@ -3,7 +3,7 @@ title: Newsletter
 cms_exclude: true
 ---
 
-Stay updated with my latest research, talks, and occasional notes. No spam—unsubscribe anytime.
+Stay updated with my latest research, talks, and occasional notes. No spam, unsubscribe anytime.
 
 <div class="newsletter-embed">
 
