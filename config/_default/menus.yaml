@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Accomplishments
+  - name: Awards
     url: '#accomplishments'
     weight: 40
   - name: Talks
@@ -22,6 +22,12 @@ main:
   - name: Extracurricular
     url: '#extracurricular'
     weight: 60
+  - name: Blog
+    url: '/blog/'
+    weight: 70
+  - name: Newsletter
+    url: '/newsletter/'
+    weight: 80
 
 
 # Link to a PDF of your resume/CV from the menu.

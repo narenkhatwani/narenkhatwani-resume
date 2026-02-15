@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Honors & Awards'
+title: Awards
 subtitle:
 
 # Date format
@@ -46,5 +46,5 @@ design:
 ---
 
 {{% callout note %}}
-[Show all honors & awards](/accomplishments/).
+[Show all awards](/accomplishments/).
 {{% /callout %}}
