@@ -34,12 +34,19 @@
 #experience [class*="col-"] .card {
   border-left: 4px solid var(--global-theme-color, #007bff) !important;
   padding-left: 1rem !important;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.75rem;
 }
+#experience .experience-widget-plain .row { margin-bottom: -0.25rem; }
+#experience .experience-col-plain { margin-bottom: 0.5rem; }
 #experience .experience-card-plain .card-body { padding-left: 0.5rem; }
 #experience .exp-title { margin-bottom: 0.35rem; }
 #experience .exp-meta { font-size: 0.95rem; margin-bottom: 0.25rem; }
+#experience .exp-meta,
+#experience .exp-meta a { color: inherit !important; }
+#experience .exp-meta a:hover { opacity: 0.85; }
 #experience .exp-date { font-size: 0.85rem; color: var(--global-theme-color, #007bff); margin-bottom: 0.5rem; }
+#experience .exp-desc,
+#experience .card-text { color: inherit !important; }
 #experience .exp-desc { text-align: justify; }
 
 /* Experience & Extracurricular: justify description text */
@@ -54,6 +61,16 @@
 #extracurricular p.description,
 #extracurricular .experience-description {
   text-align: justify;
+}
+
+/* Newsletter page: logo */
+.newsletter-logo-wrap {
+  margin-bottom: 1.25rem;
+}
+.newsletter-logo {
+  max-width: 200px;
+  height: auto;
+  display: block;
 }
 
 /* Newsletter page: Buttondown embed */

@@ -3,6 +3,10 @@ title: Newsletter
 cms_exclude: true
 ---
 
+<div class="newsletter-logo-wrap">
+  <img src="/images/newsletter/logo.png" alt="Naren's Neural Narrative" class="newsletter-logo" />
+</div>
+
 Stay updated with my latest research, talks, and occasional notes. No spam, unsubscribe anytime.
 
 <div class="newsletter-embed">

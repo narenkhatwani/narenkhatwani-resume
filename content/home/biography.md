@@ -9,7 +9,7 @@ title: Full biography
 subtitle:
 ---
 <p style='text-align: justify;'>
-Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT) under the supervision of Dr. James Geller and Dr. Lijing Wang. My research lies in the domain of Biomedical ontologies, with a focus primarily on Incremental Ontology Expansion and Concept Goodness. Alongside my research, I am an Adjunct Instructor teaching Database System Design and Management (CS 331) and a Teaching Assistant for graduate level courses.
+Hello! I'm Naren, a Data Science Ph.D. student at the <a href="https://ds.njit.edu/" target="_blank" rel="noopener">New Jersey Institute of Technology (NJIT)</a> Data Science department under the supervision of <a href="https://people.njit.edu/profile/geller" target="_blank" rel="noopener">Dr. James Geller</a> and <a href="https://people.njit.edu/profile/lw29" target="_blank" rel="noopener">Dr. Lijing Wang</a>. My research lies in the domain of Biomedical ontologies, with a focus primarily on Incremental Ontology Expansion and Concept Goodness. Alongside my research, I am an Adjunct Instructor teaching Database System Design and Management (CS 331) and a Teaching Assistant for graduate level courses.
 </p>
 
 <p style='text-align: justify;'>
