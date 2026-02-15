@@ -5,6 +5,14 @@
   text-align: justify !important;
 }
 
+/* Awards section: heading black instead of gray */
+#accomplishments .section-heading,
+#accomplishments h1,
+#accomplishments h2,
+#accomplishments .wg-accomplishments .section-heading {
+  color: #1e2022 !important;
+}
+
 /* Experience: remove timeline entirely (circles + line) - no overflow possible */
 #experience .card::before,
 #experience .card::after,
@@ -46,14 +54,20 @@
 #experience .experience-widget-plain .row { margin-bottom: -0.25rem; }
 #experience .experience-col-plain { margin-bottom: 0.5rem; }
 #experience .experience-card-plain .card-body { padding-left: 0.5rem; }
-#experience .exp-title { margin-bottom: 0.35rem; }
-#experience .exp-meta { font-size: 0.95rem; margin-bottom: 0.25rem; }
+#experience .exp-title,
+#experience .exp-meta,
+#experience .exp-date {
+  font-size: 1rem !important;
+  line-height: 1.4;
+  margin-bottom: 0.25rem;
+}
+#experience .exp-title { font-weight: 600; margin-bottom: 0.3rem; }
 #experience .exp-meta,
 #experience .exp-meta a {
   color: var(--global-text-color, #1e2022) !important;
 }
 #experience .exp-meta a:hover { opacity: 0.85; }
-#experience .exp-date { font-size: 0.85rem; color: var(--global-theme-color, #007bff); margin-bottom: 0.5rem; }
+#experience .exp-date { color: var(--global-text-color, #1e2022) !important; margin-bottom: 0.4rem; }
 #experience .exp-desc,
 #experience .card-text { color: inherit !important; }
 #experience .exp-desc { text-align: justify; }
