@@ -17,10 +17,6 @@ subtitle: For complete work history refer to my [curriculum vitae](uploads/cv.pd
 date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `experience` items below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Adjunct Instructor
     company: New Jersey Institute of Technology
@@ -29,25 +25,33 @@ experience:
     location: New Jersey
     date_start: '2024-09-01'
     date_end: ''
-    description: Taught CS 331 - Database System Design and Management, focusing on key concepts such as database design, SQL programming, normalization, and transaction management, providing both theoretical and practical knowledge. Developed comprehensive course materials and assessments, ensuring students gain a robust understanding of database systems and are well-prepared for real-world applications in the field.
+    description: |
+      Fall 2024 and Summer 2025.
+      • Taught CS 331: Database System Design and Management, focusing on key concepts such as database design, SQL programming, normalization, and transaction management, providing both theoretical and practical knowledge.
+      • Developed comprehensive course materials and assessments, ensuring students gain a robust understanding of database systems and are well-prepared for real-world applications in the field.
 
-  - title: Teaching Assistant 
+  - title: Teaching Assistant
     company: New Jersey Institute of Technology
     company_url: 'https://www.njit.edu/'
     company_logo:
     location: New Jersey
     date_start: '2023-09-01'
-    date_end: '2024-08-31'
-    description: Teaching Assistant for CS 632 - Advanced Database System Design, CS 331 - Database System Design and Management. Offering weekly consultations during dedicated office hours to address graduate student questions and provide clarifications. Additionally assessing and grading student assignments, exams, projects, and homework, ensuring timely and accurate feedback.
+    date_end: ''
+    description: |
+      • Teaching Assistant for CS 632: Advanced Database System Design, CS 331: Database System Design and Management, DS 636: Data Analytics with R program.
+      • Offering weekly consultations during dedicated office hours to address graduate student questions and provide clarifications.
+      • Assessing and grading student assignments and homework, ensuring timely and accurate feedback.
 
   - title: Graduate Researcher
     company: New Jersey Institute of Technology
     company_url: 'https://www.njit.edu/'
     company_logo:
     location: New Jersey
-    date_start: '2021-09-01'
-    date_end: '2023-08-15'
-    description: Research a software package (Arkouda) allowing users to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy (the underlying computational library used in most Python data science workflows). Another objective of my work was to test how a user can experience Arkouda, do a performance comparison study and craft tutorials for Data Analytics using Arkouda.
+    date_start: '2021-10-01'
+    date_end: '2023-08-31'
+    description: |
+      • Arkouda – research a software package that allows a user to interactively issue massive parallel computations on distributed data using functions and syntax that mimic NumPy, the underlying computational library used in most Python data science workflows.
+      • Objective - Test how a user can experience Arkouda and do a performance comparison study.
 
   - title: Technology Engineering Intern
     company: Forbes Media LLC
@@ -55,26 +59,56 @@ experience:
     company_logo:
     location: New Jersey
     date_start: '2022-06-01'
-    date_end: '2022-09-30'
-    description: Worked with the Platform & Product Engineering Team to improve the in-house Content Management System Bertie. Additionally, I collaborated with cross-functional teams using Jira and delivered well-documented work. I was also a part of developing the new Mobile Application for Forbes Daily Dozen, replacing the existing technology to drive more traffic.
+    date_end: '2022-08-31'
+    description: |
+      • Improved the User Interface of the Content Management System Bertie by creating Angular components per the Product Design Team – improved user interaction with CMS by seventy percent.
+      • Part of the pilot team for iOS and Android Development of the Forbes Mobile Application.
+      • Designed the architecture for Multivendor Call to Action feature to increase the customer conversion rate by fifty percent.
 
   - title: Network Operations Centre Intern
-    company: GPX India Pvt Ltd
+    company: GPX India Pvt. Ltd
     company_url: 'https://www.equinix.com/data-centers/asia-pacific-colocation/india-colocation/mumbai-data-centers/mb1'
     company_logo:
-    location: Mumbai
-    date_start: '2022-06-01'
-    date_end: '2022-09-30'
-    description: Worked with the Network Operations Center (NOC) and improved the workflow of Building Management System (BMS) by visualizing the existing Chiller Plants' data using Python.
+    location: Mumbai, India
+    date_start: '2019-12-01'
+    date_end: '2019-12-31'
+    description: |
+      • Worked with the Network Operations Center (NOC) and improved the workflow of Building Management System (BMS) by visualizing the existing Chiller Plants' data using Python.
+      • Improved data handling efficiency with the use of python scripts saving six to eight hours of manual scraping of data in CSV files generated by the client data of the Data Center.
 
   - title: Intern
-    company: Suven Consultants and Technology Pvt Ltd
+    company: Fox Domotics Pvt. Ltd
+    company_url: ''
+    company_logo:
+    location: Mumbai, India
+    date_start: '2019-06-01'
+    date_end: '2019-07-31'
+    description: |
+      • Successfully implemented the data analysis of Play Store application download data and drew inferences regarding their usage and compatibility.
+      • Predicted the future application download trends in accordance with the existing user reviews (sentimental analysis) using Machine Learning.
+
+  - title: Business Development Intern
+    company: Haplotech IT Solutions LLP
+    company_url: ''
+    company_logo:
+    location: Mumbai, India
+    date_start: '2019-03-01'
+    date_end: '2019-08-31'
+    description: |
+      • Proactively organized weekly briefings with the marketing lead and was responsible for managing negotiations with clients.
+      • Contributed to the content ideation that led to developing a new content strategy and improved the sales pitches by twenty-five percent.
+
+  - title: Intern
+    company: Suven Consultants And Technology Pvt Ltd
     company_url: 'http://suvenconsultants.com/'
     company_logo:
-    location: Mumbai
-    date_start: '2022-06-01'
-    date_end: '2022-09-30'
-    description: Performed Analysis of Meteorological Data to study the Influence of Global Warming on temperature and humidity. Carried out Market Basket Analysis incorporating Apriori algorithm by considering the important sale parameters. Carried out Market Basket Analysis incorporating Apriori algorithm by considering the important sale parameters. 
+    location: Mumbai, India
+    date_start: '2019-06-01'
+    date_end: '2019-07-31'
+    description: |
+      • Performed Analysis of Meteorological Data to study the Influence of Global Warming on temperature and humidity. This was implemented using data exploration and visualization tools in python.
+      • Implemented recognition of handwritten digits from images to give its quantifiable value in text form.
+      • Carried out Market Basket Analysis incorporating Apriori algorithm by considering the important sale parameters. This analysis proves to be an aid in enhancing the sales performance of a supermarket.
 
 design:
   columns: '2'

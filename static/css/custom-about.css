@@ -1,3 +1,13 @@
+/* Experience: contain timeline circles and lines so they don't overflow */
+#experience .card,
+#experience .article-style,
+#experience [class*="col-"] .card {
+  overflow: hidden;
+}
+#experience .experience-more-block {
+  overflow: hidden;
+}
+
 /* Experience & Extracurricular: justify description text */
 #experience .card-text,
 #experience .article-style p,
