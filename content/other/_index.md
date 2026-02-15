@@ -5,11 +5,9 @@ cms_exclude: true
 
 <div class="other-content-justify">
 
-<div class="other-first-box">
-<a href="https://instagram.com/naren_khatwani007" target="_blank" rel="noopener" class="other-instagram-link"><i class="fab fa-instagram" aria-hidden="true"></i> @naren_khatwani007</a> (check out more pictures at my instagram page)
-</div>
-
 **I am a Data Science PhD student 📝 on weekdays, and an explorer 📷 on the weekend.**
+
+<a href="https://instagram.com/naren_khatwani007" target="_blank" rel="noopener" class="other-instagram-link"><i class="fab fa-instagram" aria-hidden="true"></i> @naren_khatwani007</a> (check out more pictures at my instagram page)
 
 ---
 

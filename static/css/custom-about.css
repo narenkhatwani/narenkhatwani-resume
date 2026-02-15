@@ -102,20 +102,7 @@
   margin-top: 0.5rem;
 }
 
-/* Other page: first box (Instagram) – no blank first box */
-.other-first-box {
-  border: 1px solid rgba(0, 0, 0, 0.12);
-  border-radius: 8px;
-  padding: 0.75rem 1rem;
-  margin-bottom: 0;
-  background: rgba(0, 0, 0, 0.02);
-}
-.other-first-box + p,
-.other-content-justify .other-first-box + * {
-  margin-top: 0;
-}
-
-/* Other page: Instagram link */
+/* Other page: Instagram link – simple line below tagline */
 .other-instagram-link {
   display: inline;
   margin-top: 0;
