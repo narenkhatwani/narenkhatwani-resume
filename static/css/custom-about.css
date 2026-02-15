@@ -1,30 +1,28 @@
-/* Experience: remove timeline (circles + line) and use simple left-accent design instead */
-#experience .card::before,
-#experience .card::after,
-#experience .article-style::before,
-#experience .article-style::after,
-#experience .card-body::before,
-#experience .card-body::after,
-#experience .card-block::before,
-#experience .card-block::after,
-#experience [class*="col-"]::before,
-#experience [class*="col-"]::after,
-#experience .stream,
-#experience .stream::before,
-#experience .stream::after {
+/* Experience: keep timeline for top 4; remove it only for items under "Show more" */
+#experience .experience-more-block .card::before,
+#experience .experience-more-block .card::after,
+#experience .experience-more-block .article-style::before,
+#experience .experience-more-block .article-style::after,
+#experience .experience-more-block .card-body::before,
+#experience .experience-more-block .card-body::after,
+#experience .experience-more-block .card-block::before,
+#experience .experience-more-block .card-block::after,
+#experience .experience-more-block [class*="col-"]::before,
+#experience .experience-more-block [class*="col-"]::after,
+#experience .experience-more-block .stream,
+#experience .experience-more-block .stream::before,
+#experience .experience-more-block .stream::after {
   display: none !important;
   content: none !important;
   background: none !important;
   border: none !important;
 }
-/* Simple left-accent bar on each experience card (no circles/line, no overflow) */
-#experience .card,
-#experience .article-style,
-#experience [class*="col-"] .card {
-  border-left: 4px solid var(--global-theme-color, #007bff) !important;
+/* Optional: left-accent bar only for "Show more" cards so they still have structure */
+#experience .experience-more-block .card,
+#experience .experience-more-block .article-style,
+#experience .experience-more-block [class*="col-"] .card {
+  border-left: 4px solid var(--global-theme-color, #007bff);
   padding-left: 1rem;
-  margin-bottom: 1.25rem;
-  overflow: visible;
 }
 #experience .experience-more-block {
   overflow: visible;
