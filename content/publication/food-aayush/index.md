@@ -42,9 +42,9 @@ abstract: Food is an essential parameter that plays a crucial role in the surviv
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Buy
-#   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
+links:
+  - name: Cite / View
+    url: '/publication/food-aayush/'
 
 url_pdf: content/publication/food-aayush/food-aayush.pdf
 # url_code: ''

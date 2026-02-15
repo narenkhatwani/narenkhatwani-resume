@@ -1,0 +1,28 @@
+{{ define "main" }}
+<div class="article-container">
+  {{ .Content }}
+</div>
+
+{{ $published := where .Pages ".Params.publication_types" "intersect" (slice "1" "2") }}
+{{ $preprints := where .Pages ".Params.publication_types" "intersect" (slice "3") }}
+{{ $published = $published | sort ".Params.publishDate" "desc" }}
+{{ $preprints = $preprints | sort ".Params.publishDate" "desc" }}
+
+{{ if $published }}
+<h2 class="mb-4">Published</h2>
+<div class="space-y-4">
+  {{ range $published }}
+    {{ .Render "list" }}
+  {{ end }}
+</div>
+{{ end }}
+
+{{ if $preprints }}
+<h2 class="mb-4 mt-5">Preprints</h2>
+<div class="space-y-4">
+  {{ range $preprints }}
+    {{ .Render "list" }}
+  {{ end }}
+</div>
+{{ end }}
+{{ end }}

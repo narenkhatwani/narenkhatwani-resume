@@ -43,9 +43,9 @@ abstract: Healthcare is one of the most important industries in today's time. Th
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Buy
-#   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
+links:
+  - name: Cite / View
+    url: '/publication/pandemic-disease/'
 
 url_pdf: content/publication/pandemic-disease/IRJET-V7I9550.pdf
 # url_code: ''

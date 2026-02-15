@@ -43,17 +43,17 @@ abstract: A good medical ontology is expected to cover its domain completely and
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Buy
-#   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
+links:
+  - name: Cite / View
+    url: 'https://github.com/narenkhatwani/concept-utility-case-study'
 
-# url_pdf: 
+# url_pdf:
 # url_code: ''
 # url_dataset: ''
 # url_poster: ''
 url_project: 'https://github.com/narenkhatwani/concept-utility-case-study'
 # url_slides: ''
-url_source: ''
+# url_source: ''
 # url_video: ''
 
 # Featured image
