@@ -47,7 +47,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:narenkhatwani.work@gmail.edu
+    link: mailto:narenkhatwani.work@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/KhatwaniNaren
