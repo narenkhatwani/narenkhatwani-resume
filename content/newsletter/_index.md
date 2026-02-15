@@ -7,7 +7,9 @@ cms_exclude: true
   <img src="/images/newsletter/logo.png" alt="Naren's Neural Narrative" class="newsletter-logo" />
 </div>
 
-Stay updated with my latest research, talks, and occasional notes. No spam, unsubscribe anytime.
+My friends say that I come across cool tech stuff in academia and life because I like being curious. So I thought why not write a weekly newsletter and let everyone know about it?
+
+So here is Naren's Neural Narrative (cool name, right?). You know whats cooler? <a href="https://en.wikipedia.org/wiki/Vada_pav" target="_blank" rel="noopener">VadaPav</a>
 
 <div class="newsletter-embed">
 
