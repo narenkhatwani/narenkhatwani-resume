@@ -7,6 +7,11 @@
 #experience .experience-more-block {
   overflow: hidden;
 }
+/* Stop timeline from drawing through the Show more gap */
+#experience .experience-toggle-spacer.col-12 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
 
 /* Experience & Extracurricular: justify description text */
 #experience .card-text,
@@ -20,6 +25,21 @@
 #extracurricular p.description,
 #extracurricular .experience-description {
   text-align: justify;
+}
+
+/* Spacer above Show more: covers timeline gap to prevent overflow */
+.experience-toggle-spacer {
+  width: 100%;
+  min-height: 2.5rem;
+  margin-top: 0.5rem;
+  background: #fff;
+  position: relative;
+  z-index: 1;
+}
+@media (prefers-color-scheme: dark) {
+  .experience-toggle-spacer {
+    background: var(--global-bg-color, #1a1a1a);
+  }
 }
 
 /* Show more button for experience */

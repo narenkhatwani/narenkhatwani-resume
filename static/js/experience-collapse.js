@@ -25,12 +25,17 @@
   });
   items[showCount - 1].parentNode.insertBefore(wrapper, items[showCount - 1].nextSibling);
 
+  var spacer = document.createElement('div');
+  spacer.className = 'experience-toggle-spacer col-12';
+  spacer.setAttribute('aria-hidden', 'true');
+
   var btn = document.createElement('button');
   btn.type = 'button';
   btn.className = 'btn btn-outline-primary btn-sm experience-toggle-btn';
   btn.textContent = 'Show more';
   btn.setAttribute('aria-expanded', 'false');
-  wrapper.parentNode.insertBefore(btn, wrapper);
+  wrapper.parentNode.insertBefore(spacer, wrapper);
+  spacer.parentNode.insertBefore(btn, wrapper);
 
   btn.addEventListener('click', function () {
     var isHidden = wrapper.hasAttribute('hidden');
