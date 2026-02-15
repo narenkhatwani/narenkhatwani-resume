@@ -35,3 +35,26 @@ section .row > .col-12.col-lg-8:last-child {
     max-width: 100%;
   }
 }
+
+/* Experience & Extracurricular: justify description text */
+#experience .card-text,
+#experience .article-style p,
+#experience .card p,
+#experience p.description,
+#experience .experience-description,
+#extracurricular .card-text,
+#extracurricular .article-style p,
+#extracurricular .card p,
+#extracurricular p.description,
+#extracurricular .experience-description {
+  text-align: justify;
+}
+
+/* Show more button for experience */
+.experience-toggle-btn {
+  margin-top: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+.experience-more-block[hidden] {
+  display: none !important;
+}
