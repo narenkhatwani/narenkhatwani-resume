@@ -5,8 +5,8 @@
 
 {{ $published := where .Pages ".Params.publication_types" "intersect" (slice "1" "2") }}
 {{ $preprints := where .Pages ".Params.publication_types" "intersect" (slice "3") }}
-{{ $published = $published | sort ".Params.publishDate" "desc" }}
-{{ $preprints = $preprints | sort ".Params.publishDate" "desc" }}
+{{ $published = $published | sort ".Date" "desc" }}
+{{ $preprints = $preprints | sort ".Date" "desc" }}
 
 {{ if $published }}
 <h2 class="mb-4">Published</h2>
