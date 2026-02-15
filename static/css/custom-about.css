@@ -1,3 +1,10 @@
+/* Publication (paper) single page: justify text */
+.article-container p,
+.article-style p,
+#main .article-container p {
+  text-align: justify !important;
+}
+
 /* Experience: remove timeline entirely (circles + line) - no overflow possible */
 #experience .card::before,
 #experience .card::after,
