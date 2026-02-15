@@ -180,6 +180,39 @@
   border: 1px solid #eee;
 }
 
+/* Other page: first gallery box – fill first cell with Instagram CTA */
+.other-gallery-first-box {
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.04);
+  border: 1px solid #eee;
+  border-radius: 8px;
+  padding: 1rem;
+  text-align: center;
+}
+.other-gallery-first-link {
+  font-size: 1rem;
+  color: inherit;
+  text-decoration: none;
+}
+.other-gallery-first-link:hover {
+  opacity: 0.85;
+}
+.other-gallery-first-link i {
+  font-size: 2rem;
+  margin-bottom: 0.35rem;
+  display: block;
+}
+.other-gallery-first-text {
+  margin: 0.5rem 0 0 !important;
+  font-size: 0.85rem;
+  color: inherit;
+  opacity: 0.85;
+}
+
 /* Lightbox/enlarged view: keep actual aspect ratio, no squeezing */
 /* Target GLightbox: let container center the image and don't stretch */
 .glightbox-container .gslide-content,

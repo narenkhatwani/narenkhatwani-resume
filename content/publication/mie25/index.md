@@ -25,7 +25,7 @@ publishDate: '2025-05-17T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *MIE 2025 - ”Intelligent health systems – From technology to data and knowledge"*
+publication: In Medical Informatics Europe (MIE) 2025 – ”Intelligent health systems – From technology to data and knowledge"
 publication_short: In *MIE 2025*
 
 abstract: The Unified Medical Language System (UMLS) Metathesaurus is arguably the most comprehensive repository of biomedical terminologies. The UMLS Semantic Network in orders of magnitude is smaller than the Metathesaurus and contains 127 Semantic Types. One of those is “Population Group” – a Semantic Type that encompasses concepts related to various demographics and social groups. However, with the evolution of societal dynamics, the current classifications seem to have become insufficient for distinctively capturing the semantics of the contemporary societal structures. In this paper, we propose a re-evaluation and expansion of the “Population Group” Semantic Type to better accommodate these societal realities. With the introduction of the suggested new Semantic Types, we aim to facilitate more precise healthcare data management, research, and policy making.
@@ -39,9 +39,9 @@ abstract: The Unified Medical Language System (UMLS) Metathesaurus is arguably t
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Buy
-#   url: https://www.taylorfrancis.com/books/edit/10.1201/9781003033707/massive-graph-analytics-david-bader
+links:
+  - name: Cite / View
+    url: 'https://ebooks.iospress.nl/doi/10.3233/SHTI250627'
 
 # url_pdf: 
 # url_code: ''

@@ -36,6 +36,14 @@ A few photos I love.
 
 <div class="other-gallery">
 
+<div class="other-gallery-first-box">
+  <a href="https://instagram.com/naren_khatwani007" target="_blank" rel="noopener" class="other-gallery-first-link">
+    <i class="fab fa-instagram" aria-hidden="true"></i><br>
+    @naren_khatwani007
+  </a>
+  <p class="other-gallery-first-text">More on Instagram</p>
+</div>
+
 ![Photo 1](/images/other-gallery/1.jpg)
 ![Photo 2](/images/other-gallery/2.jpg)
 ![Photo 3](/images/other-gallery/3.jpg)
