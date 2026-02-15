@@ -1,0 +1,21 @@
+---
+# Custom section for full biography (first paragraph appears in About widget above)
+widget: blank
+
+headless: true
+weight: 12
+
+title: Full biography
+subtitle:
+---
+<p style='text-align: justify;'>
+Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT) under the supervision of Dr. James Geller and Dr. Lijing Wang. My research lies in the domain of Biomedical ontologies, with a focus primarily on Incremental Ontology Expansion and Concept Goodness. Alongside my research, I am an Adjunct Instructor teaching Database System Design and Management (CS 331) and a Teaching Assistant for graduate level courses.
+</p>
+
+<p style='text-align: justify;'>
+Before moving to Biomedical Ontologies, I explored the domain of Parallel and High Performance Computing as a Graduate Researcher at NJIT. My professional journey also took me to Forbes Media LLC during the Summer of 2022. As a Technology Engineering Intern at Forbes, I collaborated with the Platform & Product Engineering Team, significantly enhancing their Content Management System and initiating the development of the new Mobile Application for Forbes Daily Dozen Newsletter.
+</p>
+
+<p style='text-align: justify;'>
+Apart from my academic commitments, I am a GitHub Campus Expert, where I build diverse and inclusive communities to learn skills, collaborate on projects, and share experiences. Through this platform, I introduce students to promising research domains and organize collaborative events in partnership with GitHub, Association of Computing Machinery (ACM) - NJIT chapter & Graduate Women in Computing (GWiCS) focusing on open-source learning and innovation.
+</p>
