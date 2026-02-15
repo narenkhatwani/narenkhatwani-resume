@@ -49,7 +49,9 @@
 #experience .exp-title { margin-bottom: 0.35rem; }
 #experience .exp-meta { font-size: 0.95rem; margin-bottom: 0.25rem; }
 #experience .exp-meta,
-#experience .exp-meta a { color: inherit !important; }
+#experience .exp-meta a {
+  color: var(--global-text-color, #1e2022) !important;
+}
 #experience .exp-meta a:hover { opacity: 0.85; }
 #experience .exp-date { font-size: 0.85rem; color: var(--global-theme-color, #007bff); margin-bottom: 0.5rem; }
 #experience .exp-desc,
