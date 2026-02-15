@@ -1,0 +1,36 @@
+/* Reduce empty space in About/Biography: narrower left column, wider right column */
+
+#about .row {
+  align-items: start;
+}
+
+#about .col-lg-4 {
+  flex: 0 0 26%;
+  max-width: 26%;
+}
+
+#about .col-lg-8 {
+  flex: 0 0 74%;
+  max-width: 74%;
+}
+
+/* Fallback for theme using col-12 + col-lg-4/8 */
+#about .row > .col-12.col-lg-4:first-child {
+  flex: 0 0 26%;
+  max-width: 26%;
+}
+
+#about .row > .col-12.col-lg-8:last-child {
+  flex: 0 0 74%;
+  max-width: 74%;
+}
+
+/* Mobile: keep full width */
+@media (max-width: 991.98px) {
+  #about .col-lg-4,
+  #about .col-lg-8,
+  #about .row > .col-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+}
