@@ -70,20 +70,30 @@
 .projects-list > li > ul {
   margin: 0.4rem 0 0;
   padding-left: 1.15rem;
+  list-style: disc;
 }
 .projects-list > li > ul > li {
   margin-bottom: 0.35rem;
   text-align: justify;
   line-height: 1.45;
+  color: var(--global-text-color-light, #6c757d);
+  font-size: 0.95rem;
+}
+.projects-list > li > ul > li::marker {
+  color: #adb5bd;
 }
 @media (min-width: 640px) {
-  .awards-list .award-header,
-  .projects-list .project-header {
+  .awards-list .award-header {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: baseline;
     justify-content: space-between;
     gap: 0.35rem 1rem;
+  }
+  .projects-list .project-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.2rem;
   }
 }
 
