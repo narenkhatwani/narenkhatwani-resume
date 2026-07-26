@@ -12,18 +12,18 @@ publishDate: '2026-01-01T00:00:00Z'
 
 publication_types: ['1']
 
-publication: In American Medical Informatics Association (AMIA) 2025 Informatics Summit, 2026 (Accepted)
-publication_short: In *AMIA 2025*
+publication: In *AMIA 2026 Informatics Summit*, 2026
+publication_short: In *AMIA 2026 Informatics Summit*
 
 abstract: In press.
 
 featured: false
 
-url_source: 'https://amia.org/education-events/amia-2025-informatics-summit'
+url_source: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC13274364/'
 links:
   - name: Cite
     url: '#citation'
   - name: Source
-    url: 'https://amia.org/education-events/amia-2025-informatics-summit'
+    url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC13274364/'
 ---
 {{< citation >}}

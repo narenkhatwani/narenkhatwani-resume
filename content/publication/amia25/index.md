@@ -26,7 +26,7 @@ publishDate: '2025-11-31T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In American Medical Informatics Association (AMIA) Annual Symposium 2025
+publication: In *AMIA 2025 Annual Symposium*, 2025
 publication_short: In *AMIA 2025*
 
 abstract: The rapid development of Large Language Models (LLMs) has opened up new possibilities for their role in supporting research. This study assesses whether LLMs can generate “thoughtful” research plans in the domain of Medical Informatics and whether LLM-generated critiques can improve such plans. Using an LLM pipeline, we prompt four LLMs to generate primary research plans. Subsequently, these plans are mutually critiqued and then the LLMs are prompted to refine their outputs based on these critiques. These original and improved responses are then reviewed by human evaluators for errors, hallucinations, etc. We employ ROUGE scores, cosine similarity, and length differences to quantify similarities across responses. Our findings reveal variations in outputs among four LLMs, the impact of critiques, and differences between primary and secondary outputs. All LLMs produce cogent outputs and critiques, integrating feedback when generating improved outputs. Human evaluators can distinguish between primary and secondary responses in most cases.
@@ -47,7 +47,7 @@ links:
   - name: Cite
     url: '#citation'
   - name: Source
-    url: 'https://knowledge.amia.org/A2025/content?act=2025Annuala373&pdf=2025fl373'
+    url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12919629/'
 
 # url_pdf: 
 # url_code: ''
@@ -55,7 +55,7 @@ links:
 # url_poster: ''
 url_project: 'https://github.com/narenkhatwani/llms-for-concept-utility'
 # url_slides: ''
-url_source: 'https://knowledge.amia.org/A2025/content?act=2025Annuala373&pdf=2025fl373'
+url_source: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12919629/'
 # url_video: ''
 
 # Featured image

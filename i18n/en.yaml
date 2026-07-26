@@ -1,0 +1,3 @@
+# Custom publication type labels (extends Wowchemy defaults)
+- id: pub_poster
+  translation: Poster
