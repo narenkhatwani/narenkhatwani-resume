@@ -17,7 +17,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    twitter: 'KhatwaniNaren'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -39,12 +39,17 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+
+# Hide "Published with Wowchemy" attribution
+i_am_a_sponsor: true
+power_ups:
+  hide_published_with: true
 
 # Localization
 locale:

@@ -324,3 +324,10 @@
   background-repeat: no-repeat !important;
 }
 
+/* Hide empty/powered-by footer attribution */
+.site-footer .powered-by:empty,
+.site-footer .copyright-license-text,
+.site-footer .footer-license-icons {
+  display: none !important;
+}
+
