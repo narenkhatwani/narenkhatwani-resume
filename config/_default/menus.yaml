@@ -19,7 +19,7 @@ main:
   - name: Talks
     url: '#talks'
     weight: 50
-  - name: Extracurricular
+  - name: Volunteering
     url: '#extracurricular'
     weight: 60
   - name: Blog

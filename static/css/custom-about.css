@@ -13,6 +13,62 @@
   color: #1e2022 !important;
 }
 
+/* Full awards page: organized bullet list */
+.awards-list {
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 2rem;
+  max-width: 48rem;
+}
+.awards-list > li {
+  position: relative;
+  padding: 1.1rem 0 1.1rem 1.25rem;
+  border-left: 3px solid var(--global-theme-color, #007bff);
+  margin-bottom: 0.75rem;
+}
+.awards-list > li::before {
+  content: "";
+  position: absolute;
+  left: -0.4rem;
+  top: 1.35rem;
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--global-theme-color, #007bff);
+}
+.awards-list .award-header {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  margin-bottom: 0.4rem;
+}
+.awards-list .award-header strong {
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+.awards-list .award-meta {
+  font-size: 0.9rem;
+  color: var(--global-text-color-light, #6c757d);
+}
+.awards-list p {
+  margin: 0.35rem 0 0;
+  text-align: justify;
+  line-height: 1.55;
+}
+.awards-list .award-links {
+  margin-top: 0.45rem !important;
+  font-size: 0.9rem;
+}
+@media (min-width: 640px) {
+  .awards-list .award-header {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.35rem 1rem;
+  }
+}
+
 /* Experience: remove timeline entirely (circles + line) - no overflow possible */
 #experience .card::before,
 #experience .card::after,
