@@ -127,6 +127,17 @@
 #experience .exp-desc,
 #experience .card-text { color: inherit !important; }
 #experience .exp-desc { text-align: justify; }
+#experience .exp-desc ul,
+#extracurricular .exp-desc ul {
+  margin: 0.35rem 0 0;
+  padding-left: 1.15rem;
+}
+#experience .exp-desc li,
+#extracurricular .exp-desc li {
+  margin-bottom: 0.35rem;
+  text-align: justify;
+  line-height: 1.45;
+}
 
 /* Experience & Extracurricular: justify description text */
 #experience .card-text,
