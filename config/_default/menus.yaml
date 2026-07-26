@@ -13,6 +13,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
+  - name: Projects
+    url: '/projects/'
+    weight: 35
   - name: Awards
     url: '#accomplishments'
     weight: 40
