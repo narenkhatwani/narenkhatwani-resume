@@ -18,6 +18,11 @@ Courses taught or assisted at the New Jersey Institute of Technology, listed by 
 
 - **DS 644** — Introduction to Big Data · *Teaching Assistant*
 
+### Spring
+
+- **CS 632** — Advanced Database System Design · *Teaching Assistant*
+- **CS 331** — Database System Design and Management · *Teaching Assistant*
+
 ## 2025
 
 ### Fall
@@ -39,7 +44,7 @@ Courses taught or assisted at the New Jersey Institute of Technology, listed by 
 
 ### Fall
 
-- **CS 331** — Database System Design and Management · *Adjunct Instructor*
+- **[CS 331](https://digitalcommons.njit.edu/cs-syllabi/486/)** — Database System Design and Management · *Adjunct Instructor*
 
 ### Summer
 
