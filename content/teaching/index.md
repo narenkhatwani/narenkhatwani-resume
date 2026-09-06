@@ -39,7 +39,7 @@ Courses taught or assisted at the New Jersey Institute of Technology, listed by 
 
 ### Fall
 
-- **CS 331** — Database System Design and Management · *Course Instructor*
+- **CS 331** — Database System Design and Management · *Adjunct Instructor*
 
 ### Summer
 
