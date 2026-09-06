@@ -16,7 +16,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: "Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT) under the supervision of Dr. James Geller and Dr. Lijing Wang. My research lies in the domain of Biomedical ontologies, with a focus primarily on Incremental Ontology Expansion and Concept Goodness. Alongside my research, I am an Adjunct Instructor teaching Database System Design and Management (CS 331) and a Teaching Assistant for graduate level courses."
     twitter: 'KhatwaniNaren'
   analytics:
     google_analytics: ''

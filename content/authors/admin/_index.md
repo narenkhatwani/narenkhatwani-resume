@@ -18,7 +18,7 @@ organizations:
     url: https://www.njit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: "Hello! I'm Naren, a Data Science Ph.D. student at the New Jersey Institute of Technology (NJIT) under the supervision of Dr. James Geller and Dr. Lijing Wang. My research lies in the domain of Biomedical ontologies, with a focus primarily on Incremental Ontology Expansion and Concept Goodness."
 
 # Interests to show in About widget
 interests:
