@@ -3,112 +3,33 @@ title: Teaching
 cms_exclude: true
 ---
 
-<p class="teaching-intro">Courses taught or assisted at the New Jersey Institute of Technology, listed by year and semester. For TA courses, the listed instructor is the course instructor.</p>
+Courses taught or assisted at the New Jersey Institute of Technology, listed by year and semester.
 
-<div class="teaching-list">
+## 2026
 
-  <section class="teaching-year">
-    <h2>2026</h2>
+### Fall
 
-    <div class="teaching-semester">
-      <h3>Fall</h3>
-      <ul>
-        <li>
-          <span class="course-code">CS 434</span>
-          <div class="course-details">
-            <span class="course-name">Advanced Database Systems</span>
-          </div>
-          <span class="course-role">Teaching Assistant</span>
-        </li>
-        <li>
-          <span class="course-code">CS 331</span>
-          <div class="course-details">
-            <span class="course-name">Database System Design and Management</span>
-          </div>
-          <span class="course-role">Teaching Assistant</span>
-        </li>
-      </ul>
-    </div>
-  </section>
+- **CS 434** — Advanced Database Systems · *Teaching Assistant*
+- **CS 331** — Database System Design and Management · *Teaching Assistant*
 
-  <section class="teaching-year">
-    <h2>2025</h2>
+## 2025
 
-    <div class="teaching-semester">
-      <h3>Summer</h3>
-      <ul>
-        <li>
-          <span class="course-code">CS 331</span>
-          <div class="course-details">
-            <span class="course-name">Database System Design and Management</span>
-          </div>
-          <span class="course-role">Adjunct Instructor</span>
-        </li>
-      </ul>
-    </div>
-  </section>
+### Summer
 
-  <section class="teaching-year">
-    <h2>2024</h2>
+- **CS 331** — Database System Design and Management · *Adjunct Instructor*
 
-    <div class="teaching-semester">
-      <h3>Fall</h3>
-      <ul>
-        <li>
-          <span class="course-code">CS 331</span>
-          <div class="course-details">
-            <span class="course-name">Database System Design and Management</span>
-          </div>
-          <span class="course-role">Adjunct Instructor</span>
-        </li>
-      </ul>
-    </div>
-  </section>
+## 2024
 
-  <section class="teaching-year">
-    <h2>2023 – Present</h2>
+### Fall
 
-    <div class="teaching-semester">
-      <h3>Teaching Assistant</h3>
-      <p class="teaching-note">Assisted graduate and undergraduate courses (Fall 2023 – present).</p>
-      <ul>
-        <li>
-          <span class="course-code">CS 632</span>
-          <div class="course-details">
-            <span class="course-name">Advanced Database System Design</span>
-          </div>
-          <span class="course-role">Teaching Assistant</span>
-        </li>
-        <li>
-          <span class="course-code">CS 434</span>
-          <div class="course-details">
-            <span class="course-name">Advanced Database Systems</span>
-          </div>
-          <span class="course-role">Teaching Assistant</span>
-        </li>
-        <li>
-          <span class="course-code">CS 331</span>
-          <div class="course-details">
-            <span class="course-name">Database System Design and Management</span>
-          </div>
-          <span class="course-role">Teaching Assistant</span>
-        </li>
-        <li>
-          <span class="course-code">DS 644</span>
-          <div class="course-details">
-            <span class="course-name">Introduction to Big Data</span>
-          </div>
-          <span class="course-role">Teaching Assistant</span>
-        </li>
-        <li>
-          <span class="course-code">DS 636</span>
-          <div class="course-details">
-            <span class="course-name">Data Analytics with R Programming</span>
-          </div>
-          <span class="course-role">Teaching Assistant</span>
-        </li>
-      </ul>
-    </div>
-  </section>
+- **CS 331** — Database System Design and Management · *Adjunct Instructor*
 
-</div>
+## Teaching Assistant (2023 – Present)
+
+Assisted graduate and undergraduate courses (Fall 2023 – present).
+
+- **CS 632** — Advanced Database System Design · *Teaching Assistant*
+- **CS 434** — Advanced Database Systems · *Teaching Assistant*
+- **CS 331** — Database System Design and Management · *Teaching Assistant*
+- **DS 644** — Introduction to Big Data · *Teaching Assistant*
+- **DS 636** — Data Analytics with R Programming · *Teaching Assistant*

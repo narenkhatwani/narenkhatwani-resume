@@ -69,7 +69,65 @@
   }
 }
 
-/* Teaching page */
+/* Teaching page (markdown headings + lists) */
+.article-container .teaching-intro,
+body .article-style > p:first-of-type {
+  max-width: 48rem;
+}
+/* Scope teaching styles via section path class Wowchemy adds */
+.teaching .article-style h2,
+body.teaching .article-style h2,
+.page-body .article-style h2 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 1.75rem 0 0.75rem;
+  padding-left: 1.1rem;
+  border-left: 3px solid var(--global-theme-color, #007bff);
+  line-height: 1.3;
+}
+.teaching .article-style h2:first-of-type,
+body.teaching .article-style h2:first-of-type,
+.page-body .article-style h2:first-of-type {
+  margin-top: 1.25rem;
+}
+.teaching .article-style h3,
+body.teaching .article-style h3,
+.page-body .article-style h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0.85rem 0 0.4rem;
+  padding-left: 1.1rem;
+}
+.teaching .article-style ul,
+body.teaching .article-style ul,
+.page-body .article-style ul {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0 0 0 1.1rem;
+  max-width: 48rem;
+}
+.teaching .article-style li,
+body.teaching .article-style li,
+.page-body .article-style li {
+  padding: 0.4rem 0;
+  border-bottom: 1px solid rgba(128, 128, 128, 0.2);
+  font-size: 0.95rem;
+  line-height: 1.45;
+}
+.teaching .article-style li:last-child,
+body.teaching .article-style li:last-child,
+.page-body .article-style li:last-child {
+  border-bottom: none;
+}
+.teaching .article-style li em,
+body.teaching .article-style li em,
+.page-body .article-style li em {
+  color: var(--global-text-color-light, #6c757d);
+  font-style: normal;
+  font-size: 0.9em;
+}
+
+/* Legacy teaching HTML layout (kept for safety) */
 .teaching-intro {
   max-width: 48rem;
   margin: 0 0 1.5rem;
