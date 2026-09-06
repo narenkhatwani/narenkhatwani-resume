@@ -70,14 +70,12 @@
 }
 
 /* Teaching page (markdown headings + lists) */
-.article-container .teaching-intro,
-body .article-style > p:first-of-type {
+body.teaching-page .article-style > p:first-of-type {
   max-width: 48rem;
+  color: var(--global-text-color-light, #6c757d);
+  font-size: 0.95rem;
 }
-/* Scope teaching styles via section path class Wowchemy adds */
-.teaching .article-style h2,
-body.teaching .article-style h2,
-.page-body .article-style h2 {
+body.teaching-page .article-style h2 {
   font-size: 1.25rem;
   font-weight: 600;
   margin: 1.75rem 0 0.75rem;
@@ -85,138 +83,34 @@ body.teaching .article-style h2,
   border-left: 3px solid var(--global-theme-color, #007bff);
   line-height: 1.3;
 }
-.teaching .article-style h2:first-of-type,
-body.teaching .article-style h2:first-of-type,
-.page-body .article-style h2:first-of-type {
+body.teaching-page .article-style h2:first-of-type {
   margin-top: 1.25rem;
 }
-.teaching .article-style h3,
-body.teaching .article-style h3,
-.page-body .article-style h3 {
+body.teaching-page .article-style h3 {
   font-size: 0.95rem;
   font-weight: 600;
   margin: 0.85rem 0 0.4rem;
   padding-left: 1.1rem;
 }
-.teaching .article-style ul,
-body.teaching .article-style ul,
-.page-body .article-style ul {
+body.teaching-page .article-style ul {
   list-style: none;
   margin: 0 0 1rem;
   padding: 0 0 0 1.1rem;
   max-width: 48rem;
 }
-.teaching .article-style li,
-body.teaching .article-style li,
-.page-body .article-style li {
+body.teaching-page .article-style li {
   padding: 0.4rem 0;
   border-bottom: 1px solid rgba(128, 128, 128, 0.2);
   font-size: 0.95rem;
   line-height: 1.45;
 }
-.teaching .article-style li:last-child,
-body.teaching .article-style li:last-child,
-.page-body .article-style li:last-child {
+body.teaching-page .article-style li:last-child {
   border-bottom: none;
 }
-.teaching .article-style li em,
-body.teaching .article-style li em,
-.page-body .article-style li em {
+body.teaching-page .article-style li em {
   color: var(--global-text-color-light, #6c757d);
   font-style: normal;
   font-size: 0.9em;
-}
-
-/* Legacy teaching HTML layout (kept for safety) */
-.teaching-intro {
-  max-width: 48rem;
-  margin: 0 0 1.5rem;
-  color: var(--global-text-color-light, #6c757d);
-  font-size: 0.95rem;
-}
-.teaching-list {
-  max-width: 48rem;
-  margin-bottom: 2rem;
-}
-.teaching-year {
-  margin-bottom: 1.75rem;
-  padding-left: 1.1rem;
-  border-left: 3px solid var(--global-theme-color, #007bff);
-}
-.teaching-year h2 {
-  font-size: 1.25rem;
-  margin: 0 0 0.75rem;
-  font-weight: 600;
-  line-height: 1.3;
-}
-.teaching-semester {
-  margin-bottom: 1rem;
-}
-.teaching-semester:last-child {
-  margin-bottom: 0;
-}
-.teaching-semester h3 {
-  font-size: 0.95rem;
-  font-weight: 600;
-  margin: 0 0 0.4rem;
-  color: var(--global-text-color, #1e2022);
-  letter-spacing: 0.01em;
-}
-.teaching-note {
-  font-size: 0.9rem;
-  color: var(--global-text-color-light, #6c757d);
-  margin: 0 0 0.5rem;
-}
-.teaching-semester ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-.teaching-semester li {
-  display: grid;
-  grid-template-columns: 5.5rem 1fr auto;
-  gap: 0.35rem 0.85rem;
-  align-items: start;
-  padding: 0.55rem 0;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
-  font-size: 0.95rem;
-  line-height: 1.4;
-}
-.teaching-semester li:last-child {
-  border-bottom: none;
-}
-.teaching-semester .course-code {
-  font-weight: 600;
-  font-variant-numeric: tabular-nums;
-  padding-top: 0.05rem;
-}
-.teaching-semester .course-details {
-  min-width: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.15rem;
-}
-.teaching-semester .course-name {
-  color: var(--global-text-color, #1e2022);
-}
-.teaching-semester .course-instructor {
-  font-size: 0.88rem;
-  color: var(--global-text-color-light, #6c757d);
-}
-.teaching-semester .course-role {
-  font-size: 0.85rem;
-  color: var(--global-text-color-light, #6c757d);
-  white-space: nowrap;
-  padding-top: 0.05rem;
-}
-@media (max-width: 639px) {
-  .teaching-semester li {
-    grid-template-columns: 1fr;
-    gap: 0.15rem;
-  }
-  .teaching-semester .course-role {
-    white-space: normal;
-  }
 }
 
 /* Experience: remove timeline entirely (circles + line) - no overflow possible */

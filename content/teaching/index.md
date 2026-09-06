@@ -1,6 +1,8 @@
 ---
 title: Teaching
 cms_exclude: true
+design:
+  css_class: teaching-page
 ---
 
 Courses taught or assisted at the New Jersey Institute of Technology, listed by year and semester.
@@ -11,6 +13,10 @@ Courses taught or assisted at the New Jersey Institute of Technology, listed by 
 
 - **CS 434** — Advanced Database Systems · *Teaching Assistant*
 - **CS 331** — Database System Design and Management · *Teaching Assistant*
+
+### Summer
+
+- **DS 644** — Introduction to Big Data · *Teaching Assistant*
 
 ## 2025
 
@@ -23,6 +29,10 @@ Courses taught or assisted at the New Jersey Institute of Technology, listed by 
 ### Fall
 
 - **CS 331** — Database System Design and Management · *Adjunct Instructor*
+
+### Summer
+
+- **CS 331** — Database System Design and Management · *Teaching Assistant*
 
 ## Teaching Assistant (2023 – Present)
 
