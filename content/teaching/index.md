@@ -8,6 +8,30 @@ cms_exclude: true
 <div class="teaching-list">
 
   <section class="teaching-year">
+    <h2>2026</h2>
+
+    <div class="teaching-semester">
+      <h3>Fall</h3>
+      <ul>
+        <li>
+          <span class="course-code">CS 434</span>
+          <div class="course-details">
+            <span class="course-name">Advanced Database Systems</span>
+          </div>
+          <span class="course-role">Teaching Assistant</span>
+        </li>
+        <li>
+          <span class="course-code">CS 331</span>
+          <div class="course-details">
+            <span class="course-name">Database System Design and Management</span>
+          </div>
+          <span class="course-role">Teaching Assistant</span>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="teaching-year">
     <h2>2025</h2>
 
     <div class="teaching-semester">
