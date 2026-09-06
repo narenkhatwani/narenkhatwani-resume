@@ -24,22 +24,29 @@ Courses taught or assisted at the New Jersey Institute of Technology, listed by 
 
 - **CS 331** — Database System Design and Management · *Adjunct Instructor*
 
+### Spring
+
+- **CS 632** — Advanced Database System Design · *Teaching Assistant*
+- **DS 636** — Data Analytics with R Programming · *Teaching Assistant*
+
 ## 2024
 
 ### Fall
 
-- **CS 331** — Database System Design and Management · *Adjunct Instructor*
+- **CS 331** — Database System Design and Management · *Course Instructor*
 
 ### Summer
 
 - **CS 331** — Database System Design and Management · *Teaching Assistant*
+  - Also taught 2 lectures and trained under Dr. Eren Canan to teach the course as an independent instructor the following semester
 
-## Teaching Assistant (2023 – Present)
+### Spring
 
-Assisted graduate and undergraduate courses (Fall 2023 – present).
+- **CS 632-102** — Advanced Database System Design · *Teaching Assistant*
+- **CS 632-002** — Advanced Database System Design · *Teaching Assistant*
 
-- **CS 632** — Advanced Database System Design · *Teaching Assistant*
-- **CS 434** — Advanced Database Systems · *Teaching Assistant*
-- **CS 331** — Database System Design and Management · *Teaching Assistant*
-- **DS 644** — Introduction to Big Data · *Teaching Assistant*
-- **DS 636** — Data Analytics with R Programming · *Teaching Assistant*
+## 2023
+
+### Fall
+
+- **CS 632-001** — Advanced Database System Design · *Teaching Assistant*

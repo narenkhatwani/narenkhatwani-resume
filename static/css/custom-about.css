@@ -112,6 +112,17 @@ body.teaching-page .article-style li em {
   font-style: normal;
   font-size: 0.9em;
 }
+body.teaching-page .article-style li ul {
+  list-style: disc;
+  margin: 0.25rem 0 0.35rem;
+  padding-left: 1.25rem;
+}
+body.teaching-page .article-style li li {
+  border-bottom: none;
+  padding: 0.15rem 0;
+  font-size: 0.9rem;
+  color: var(--global-text-color-light, #6c757d);
+}
 
 /* Experience: remove timeline entirely (circles + line) - no overflow possible */
 #experience .card::before,
